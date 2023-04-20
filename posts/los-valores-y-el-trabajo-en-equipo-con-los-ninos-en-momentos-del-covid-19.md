@@ -1,5 +1,5 @@
 ---
-author : "Comunidad Conocimiento Colaborativo"
+author : "Elizabeth Salamando Aponte"
 categories : ["ponencia", "Elizabeth"]
 date : "2021-04-25T13:09:24Z"
 description : "La coyuntura actual ha afectado a todos los sectores económicos, educativos y sociales, sin importar su naturaleza, pues ha generado unos cambios drásticos como la reducción acelerada de empleos, un cambio en las prioridades de consumo y una transformación de los hábitos de cientos de ciudadanos alrededor del mundo."

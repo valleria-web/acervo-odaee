@@ -1,12 +1,12 @@
 ---
-author : "Comunidad Conocimiento Colaborativo"
-categories : ["ponencia", "Elizabeth"]
+author : "Medardo Plasencia"
+categories : ["ponencia", "Medardo"]
 date : "2021-04-25T13:09:24Z"
-description : "La coyuntura actual ha afectado a todos los sectores económicos, educativos y sociales, sin importar su naturaleza, pues ha generado unos cambios drásticos como la reducción acelerada de empleos, un cambio en las prioridades de consumo y una transformación de los hábitos de cientos de ciudadanos alrededor del mundo."
+description : "¿Cuál será el problema mayor en esta Pandemia, el virus o el comportamiento del ser humano? Es innegable los estragos del virus que ha enfermado a millones de personas en todo el mundo, sin distingo de raza, de edad, de posición económica y cultural; es un exterminador de la vida de muchos seres humanos alrededor del mundo entero."
 cover_image: "images/miembros/medardo-plascencia.png"
 slug : "las-fortalezas-de-las-personas-frente-a-los-retos-del-covid-19"
-summary : "La coyuntura actual ha afectado a todos los sectores económicos, educativos y sociales, sin importar su naturaleza, pues ha generado unos cambios drásticos como la reducción acelerada de empleos, un cambio en las prioridades de consumo y una transformación de los hábitos de cientos de ciudadanos alrededor del mundo."
-tags : ["ponencia", "Elizabeth"]
+summary : "¿Cuál será el problema mayor en esta Pandemia, el virus o el comportamiento del ser humano? Es innegable los estragos del virus que ha enfermado a millones de personas en todo el mundo, sin distingo de raza, de edad, de posición económica y cultural; es un exterminador de la vida de muchos seres humanos alrededor del mundo entero."
+tags : ["ponencia", "Medardo"]
 title : "Las fortalezas de las personas frente a los retos del Covid-19"
 draft : false
 ---

@@ -1,5 +1,5 @@
 ---
-author : "Comunidad Conocimiento Colaborativo"
+author : "Julio Pereyra Sánchez"
 categories : ["ponencia", "Julio"]
 date : "2021-04-25T13:09:24Z"
 description : "Ejemplos referenciales de estrategias educativas en comunidades con baja /nula conectividad. Ideas didácticas (#didacticaartesanal) y Pedagogía de la Emergencia como intervenciones educativas atendiendo emergencias circunstanciares en comunidades (barrios, aldeas, colonias rurales) y como sostener la Continuidad Pedagógica y las Secuencias Didácticas, en especial en procesos Terapéutico-Pedagógicos (Ed. Especial)."

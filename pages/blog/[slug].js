@@ -33,7 +33,7 @@ export default function PostPage({ content, frontmatter }) {
               <a href={`/blog/${frontmatter.slug}`}></a>
 
               <div className="post-title m-2">{frontmatter.title}</div >
-              <div className="post-date m-2 ">
+              <div className="post-date m-2 ">{frontmatter.author}</div >
                 <div className="post-date m-2">
                   <div>
                     <div>
@@ -57,7 +57,6 @@ export default function PostPage({ content, frontmatter }) {
                     })}{" "}
                   </div>
                 </div>
-              </div>
 
               <div
                 className="post-body m-5" style={{ fontSize: '20px' }}

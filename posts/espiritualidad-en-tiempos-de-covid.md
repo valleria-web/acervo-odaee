@@ -1,0 +1,23 @@
+---
+author : "Juan Carlos Torres Soto"
+categories : ["ponencia", "Juan"]
+date : "2021-04-25T13:09:24Z"
+description : "¿El tiempo cambió o cambiamos para el tiempo? Pregunta importante para plantearse el presente de la pandemia, sus antecedentes y el inevitable futuro. Quizá, para unos, el tiempo se hizo nuevo y para otros la vida ya venia cambiando y esto nos llevó a ajustar nuestro panorama vital. Empero, sea cual sea el enfoque que se asuma al momento de hablar del COVID 19, lo claro es que: Las estructuras tanto políticas, económicas y sociales se han visto afectadas."
+cover_image: "images/general/covid.jpg"
+slug : "espiritualidad-en-tiempos-de-covid"
+summary : "¿El tiempo cambió o cambiamos para el tiempo? Pregunta importante para plantearse el presente de la pandemia, sus antecedentes y el inevitable futuro. Quizá, para unos, el tiempo se hizo nuevo y para otros la vida ya venia cambiando y esto nos llevó a ajustar nuestro panorama vital. Empero, sea cual sea el enfoque que se asuma al momento de hablar del COVID 19, lo claro es que: Las estructuras tanto políticas, económicas y sociales se han visto afectadas."
+tags : ["ponencia", "Juan"]
+title : Espiritualidad en tiempos de Covid"
+draft : false
+---
+
+# Espiritualidad en tiempos de Covid
+
+¿El tiempo cambió o cambiamos para el tiempo? Pregunta importante para plantearse el presente de la pandemia, sus antecedentes y el inevitable futuro. Quizá, para unos, el tiempo se hizo nuevo y para otros la vida ya venia cambiando y esto nos llevó a ajustar nuestro panorama vital. Empero, sea cual sea el enfoque que se asuma al momento de hablar del COVID 19, lo claro es que: Las estructuras tanto políticas, económicas y sociales se han visto afectadas. Los cambios, ya sean (generados o impuestos) han sido inevitables e imprevistos. Todas las instituciones han padecido alteración, incluso las más robustas como la Iglesia, la cual ha gozado por siglos de una fortaleza “inalterable”. La vida se ha transformado en conjunto y esto incluye de suyo el escenario espiritual. ¿Ha cambiado la forma de ver la espiritualidad, de sentirla y expresarla? Esa es la temática que abordo en la ponencia, aludiendo a tres postulados: Primero, haciendo una lectura de la realidad de la espiritualidad en el clima de pandemia, respondiendo a la pregunta por ¿Qué ritos han cambiado en tiempo de pandemia?, socavando por supuesto la diferencia entre religión y espiritualidad. Segundo, realizando un análisis de los paradigmas espirituales (tradicionales) de la fe que se han alterado a la luz de “la nueva realidad” para finalmente plantear una “nueva visión de espiritualidad” que incluya la novedad de la virtualidad, el compromiso social y la construcción de escenarios de paz y crecimiento social mediante la utilización del método de trabajo latinoamericano de ver, juzgar y actuar.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q07gm5zG_Ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Sobre el autor: Juan Carlos Torres Soto
+
+Mi nombre es Juan Carlos Torres Soto, soy colombiano, nacido más precisamente en Bogotá hace 34 años, de profesión soy magister en docencia de la Universidad de la Salle, con formación en pregrado como licenciado en teología de la Pontificia Universidad Javeriana. Durante mi formación he tenido la posibilidad de ser instructor del Servicio Nacional de Aprendizaje (SENA), orientando el área de resolución de conflictos y ética. Durante el tiempo de pandemia trabajé en el Hospital Universitario San Ignacio, ayudando en ejercicio espiritual de escucha y duelo a pacientes COVID y a sus familias. Gracias a ello, conocí el drama de la vivencia del virus y con ello de los cuidados necesarios ante el contagio. Actualmente soy docente en la Fundación Universitaria San Alfonso de los padres Redentoristas con la cátedra de Didáctica de la filosofía. Me considero una persona apasionada por la docencia, por un gusto empírico hacia las letras, con una valiosa facilidad de palabra, pero ante todo un ser comprometido con su crecimiento personal en miras a aportar cada día en la construcción de la sociedad. Nacido hace 34 años en la ciudad de Bogotá me visualizó a futuro como docente de tiempo completo y conferencista, ayudando a otros a ser cada día mejores seres humanos para la transformación “silenciosa” pero real de la sociedad.
