@@ -60,7 +60,7 @@ export default function PostPage({ content, frontmatter }) {
               </div>
 
               <div
-                className="post-body m-5" style={{ fontSize: '25px' }}
+                className="post-body m-5" style={{ fontSize: '20px' }}
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
               ></div>
             </div>
