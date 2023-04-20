@@ -9,32 +9,34 @@ export default function Post({ post }) {
   const formattedDate = date.toLocaleDateString('es-ES', { day: 'numeric', month: 'numeric', year: 'numeric' });
 
   return (
-    <div className="card">
+    <div className="col-lg-4">
+      <div className="card m-1">
         <img
-            src={`/${post.frontmatter.cover_image}`}
-            alt={post.frontmatter.title}
-            width={"100%"}
-          />
+          src={`/${post.frontmatter.cover_image}`}
+          alt={post.frontmatter.title}
+          width={"100%"}
+        />
 
-      <div className="card-body">
-        <div className="small text-muted">{formattedDate}</div>
-        <div>
-          {post.frontmatter.tags.map((tag) => {
-            const slug = slugify(tag)
-            return (
-              <Link key={tag} href={`/tag/${slug}`}>
-                <a className="btn">
-                  <h6 className="post-title">#{tag}</h6>
-                </a>
-              </Link>
-            )
-          })}
+        <div className="card-body">
+          <div className="small text-muted">{formattedDate}</div>
+          <div>
+            {post.frontmatter.tags.map((tag) => {
+              const slug = slugify(tag)
+              return (
+                <Link key={tag} href={`/tag/${slug}`}>
+                  <a className="btn">
+                    <h6 className="post-title">#{tag}</h6>
+                  </a>
+                </Link>
+              )
+            })}
+          </div>
+          <h2 className="card-title">{post.frontmatter.title}</h2>
+          <p className="card-text">{post.frontmatter.summary}</p>
+          <Link href={`/blog/${post.slug}`}>
+            <a className="btn btn-primary">Leer más</a>
+          </Link>
         </div>
-        <h2 className="card-title">{post.frontmatter.title}</h2>
-        <p className="card-text">{post.frontmatter.summary}</p>
-        <Link href={`/blog/${post.slug}`}>
-          <a className="btn btn-primary">Leer más</a>
-        </Link>
       </div>
     </div>
   )
