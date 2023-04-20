@@ -8,7 +8,7 @@ cover_image: "images/general/congreso.jpg"
 slug : "abordando-la-educacion-desde-la-innovacion-inclusion-etica-y-las-tradiciones"
 summary : "Le invitamos a participar en la celebración del CONGRESO INTERNACIONAL ¨ABORDANDO LA EDUCACIÓN DESDE LA INNOVACIÓN, INCLUSIÓN, ÉTICA Y LAS TRADICIONES¨....
 "
-tags : ["articulo", "Kronberg"]
+tags : ["articulo", "Congreso"]
 title : "Abordando la educación desde la innovación, inclusión, ética y las tradiciones"
 draft : false
 ---
