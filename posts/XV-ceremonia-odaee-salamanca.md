@@ -174,3 +174,5 @@ Virtualmente:
 
 Le invitamos a nominar a personas extraordinarias para recibir las titulaciones que otorga la ODAEE. Si desea hacer una nominación, por favor responda a este correo electrónico y con mucho gusto le proporcionaremos información detallada sobre el proceso a seguir. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spicjugeM-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
