@@ -26,40 +26,45 @@ export default function PostPage({ content, frontmatter }) {
           },
         }}
       />
+
       <div className="container my-1 p-5">
         <div className="row">
           <div className="col-lg-10 m-auto">
-          <div className="card card-page" style={{ marginLeft: '20px', marginRight: '20px' }}>
+            <div
+              className="card card-page"
+              style={{ marginLeft: "20px", marginRight: "20px" }}
+            >
               <a href={`/blog/${frontmatter.slug}`}></a>
 
-              <div className="post-title m-2">{frontmatter.title}</div >
-              <div className="post-date m-2 ">{frontmatter.author}</div >
-                <div className="post-date m-2">
+              <div className="post-title m-2">{frontmatter.title}</div>
+              <div className="post-date m-2 ">{frontmatter.author}</div>
+              <div className="post-date m-2">
+                <div>
                   <div>
-                    <div>
-                      {`${date.getDate()}/${
-                        date.getMonth() + 1
-                      }/${date.getFullYear()}`}{" "}
-                    </div>{" "}
-                  </div>
-                  <div>
-                    {" "}
-                    {frontmatter.categories.map((category) => {
-                      const slug = slugify(category);
-
-                      return (
-                        <Link key={category} href={`/category/${slug}`}>
-                          <a className="btn">
-                            <h6 className="post-title">#{category}</h6>
-                          </a>
-                        </Link>
-                      );
-                    })}{" "}
-                  </div>
+                    {`${date.getDate()}/${
+                      date.getMonth() + 1
+                    }/${date.getFullYear()}`}{" "}
+                  </div>{" "}
                 </div>
+                <div>
+                  {" "}
+                  {frontmatter.categories.map((category) => {
+                    const slug = slugify(category);
+
+                    return (
+                      <Link key={category} href={`/category/${slug}`}>
+                        <a className="btn">
+                          <h6 className="post-title">#{category}</h6>
+                        </a>
+                      </Link>
+                    );
+                  })}{" "}
+                </div>
+              </div>
 
               <div
-                className="post-body m-5" style={{ fontSize: '20px' }}
+                className="post-body m-5"
+                style={{ fontSize: "20px", textAlign: "justify" }}
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
               ></div>
             </div>

@@ -7,7 +7,7 @@ cover_image: "images/miembros/miriam-burbano-3.png"
 slug : "el-poder-de-la-mente-y-el-exito-de-nuestros-jovenes"
 summary : "Durante los últimos 20 años en California, he trabajado de cerca con jóvenes migrantes de múltiples nacionalidades expuestos a retos que ningún niño o joven debería experimentar durante la adolescencia, una época difícil para cualquier ser humano."
 tags : ["ponencia", "Miriam"]
-title : El poder de la mente y el éxito de nuestros jóvenes"
+title : "El poder de la mente y el éxito de nuestros jóvenes"
 draft : false
 ---
 
