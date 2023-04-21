@@ -1,7 +1,7 @@
 ---
 author : "Medardo Plasencia Castellanos"
 categories : ["ponencia", "Medardo"]
-date : "2023-03-08T13:09:24Z"
+date : "2023-03-07T13:09:24Z"
 description : "La espiritualidad se entiende como la actividad del espíritu humano. ¿Qué es lo humano? Lo humano es lo que nos diferencia de los demás seres de nuestro mundo; es la capacidad de pensar, de desarrollar un lenguaje con diferentes idiomas y acentos..."
 cover_image: "images/miembros/medardo-plasencia-2.png"
 slug : "la-espiritualidad-del-encuentro-un-fundamento-de-la-cultura-de-paz"
