@@ -25,6 +25,7 @@ El quinto punto destaca la importancia de la comunicación efectiva en la promoc
 El noveno punto destaca la importancia de la justicia en la promoción de la paz, mientras que el décimo punto se enfoca en la necesidad de ser un maestro de vida. En general, se enfatiza que el docente debe reflexionar sobre su papel en la promoción de la paz y trabajar para transmitir sabiduría pacifista a sus estudiantes.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BlyDRGBsxhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Sobre el autor: Carlos Manuel Vázquez Álvarez
 
