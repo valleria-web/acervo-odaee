@@ -27,6 +27,8 @@ En esta ponencia se presentan y explican los principios de esta nueva visión y 
 
 Se presentan de forma sencilla y accesible para todos los aportes de las Neurociencias en salud, la Nueva Medicina Germánica y el impacto de la espiritualidad en nuestra capacidad de sanar y vivir plenamente.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w51BMTmWumc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Sobre la autora: Sandra Estela Carro Pecci
 
 
