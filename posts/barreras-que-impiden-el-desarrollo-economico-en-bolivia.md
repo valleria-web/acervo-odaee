@@ -25,6 +25,7 @@ Como autor, destaco que el Mercado de Valores no puede operar por sí solo y se 
 
 Enfatizo la necesidad de trabajar conjuntamente para lograr estas metas y destaco el papel relevante de la Escuela Internacional de Auditoría y NIIF - EIAN en la capacitación profesional en Bolivia y otros países de la región. Además, menciono la Fundación FESANIIF, que ha sido recientemente constituida para apoyar la labor de la EIAN a través del otorgamiento de becas y medias becas para participar en los cursos de certificación internacional. Creo que es importante captar fondos para poder seguir ofreciendo estas oportunidades de capacitación y contribuir al desarrollo económico del país.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EMkYmvsdCVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Sobre el autor: Miguel Ángel Galván Peralta
 
