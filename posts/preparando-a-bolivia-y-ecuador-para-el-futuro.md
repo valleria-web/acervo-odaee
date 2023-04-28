@@ -17,6 +17,8 @@ draft : false
 
 El Proyecto de Educación Básica Financiera y Comercial busca mejorar la cultura financiera y comercial de los estudiantes de colegios públicos y privados en Bolivia y Ecuador. Se enfoca en otorgar conocimientos y herramientas para la adecuada administración de finanzas, fomentando la responsabilidad y seguridad financiera. Se abordarán temas como el valor del dinero, finanzas personales, ahorro, metas financieras, productos financieros, endeudamiento, créditos, ingresos, modelos de negocios y presupuesto. La educación financiera es necesaria para reforzar la educación de los estudiantes, adecuándola a las necesidades que presenta el mundo globalizado actual. Además, les generará un incremento en su confianza para realizar inversiones, mejorará la tasa de emprendimiento y les permitirá explorar oportunidades de negocios. El programa se llevará a cabo a través de cursos de capacitación dictados por profesionales con experiencia académica y profesional en esta área y se contempla la entrega de proyectos individuales por cada estudiante.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WfHRM9EdQW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Sobre el autor: Félix Francisco Pinto Rojas
 
