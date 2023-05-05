@@ -32,11 +32,11 @@ export default function PostPage({ content, frontmatter }) {
           <div className="col-lg-10 m-auto">
             <div
               className="card card-page"
-              style={{ marginLeft: "20px", marginRight: "20px" }}
+              style={{ marginLeft: "10px", marginRight: "20px" }}
             >
               <a href={`/blog/${frontmatter.slug}`}></a>
 
-              <div className="post-title m-2">{frontmatter.title}</div>
+              <div className="post-title m-2" >{frontmatter.title}</div>
               <div className="post-date m-2 ">{frontmatter.author}</div>
               <div className="post-date m-2">
                 <div>
@@ -54,7 +54,7 @@ export default function PostPage({ content, frontmatter }) {
                     return (
                       <Link key={category} href={`/category/${slug}`}>
                         <a className="btn">
-                          <h6 className="post-title">#{category}</h6>
+                          <h6 style={{ fontSize: "15px", textAlign: "justify" }} className="post-title">#{category}</h6>
                         </a>
                       </Link>
                     );
@@ -64,7 +64,7 @@ export default function PostPage({ content, frontmatter }) {
 
               <div
                 className="post-body m-5"
-                style={{ fontSize: "20px", textAlign: "justify" }}
+                style={{ fontSize: "15px", textAlign: "justify" }}
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
               ></div>
             </div>
