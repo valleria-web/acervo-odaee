@@ -1,12 +1,12 @@
 ---
 author: "Comunidad Conocimiento Colaborativo"
-categories: ["DhC", "Luis"]
+categories: ["DhC", "Zelma"]
 date: "2023-05-08T18:25:34Z"
 description: "Felicitaciones a la Dra. Zelma Edith Solis Morales de Roux por haber sido galardonada con el título Doctor Honoris Causa en Derechos Humanos para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España."
 cover_image: "images/dhc/zelma-edith-solis-morales-de-roux-doctor-honoris-causa-en-derechos-humanos-para-la-paz-ODAEE-2023.png"
 slug: "zelma-edith-solis-morales-de-roux-doctor-honoris-causa-en-derechos-humanos-para-la-paz-ODAEE-2023"
 summary: "Felicitaciones a la Dra. Zelma Edith Solis Morales de Roux por haber sido galardonada con el título Doctor Honoris Causa en Derechos Humanos para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España."
-tags: ["DhC", "Luis"]
+tags: ["DhC", "Zelma"]
 title: "Zelma Edith Solis Morales de Roux, Doctor Honoris Causa en Derechos Humanos para la Paz (ODAEE) 2023"
 draft: false
 ---
