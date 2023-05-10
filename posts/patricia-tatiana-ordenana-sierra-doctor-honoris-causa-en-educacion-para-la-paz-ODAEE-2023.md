@@ -18,5 +18,5 @@ draft: false
 Felicitaciones a Patricia Tatiana Ordeñana Sierra por haber sido galardonada con el título Doctor Honoris Causa en Educación para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España.
 
 <div style="display: flex; justify-content: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MSL0aGWeakI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ECcbdqxXAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
