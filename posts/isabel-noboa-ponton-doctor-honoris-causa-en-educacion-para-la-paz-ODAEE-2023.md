@@ -1,12 +1,12 @@
 ---
 author: "Comunidad Conocimiento Colaborativo"
-categories: ["DhC", "Jose"]
+categories: ["DhC", "Isabel"]
 date: "2023-05-09T18:40:34Z"
 description: "Felicitaciones a Isabel Noboa Pontón por haber sido galardonada con el título Doctor Honoris Causa en Educación para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España."
 cover_image: "images/dhc/isabel-noboa-ponton-doctor-honoris-causa-en-educacion-para-la-paz-ODAEE-2023.png"
 slug: "isabel-noboa-ponton-doctor-honoris-causa-en-educacion-para-la-paz-ODAEE-2023"
 summary: "Felicitaciones a Isabel Noboa Pontón por haber sido galardonada con el título Doctor Honoris Causa en Educación para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España."
-tags: ["DhC", "Jose"]
+tags: ["DhC", "Isabel"]
 title: "Isabel Noboa Pontón, Doctor Honoris Causa en Educación para la Paz (ODAEE) 2023"
 draft: false
 ---
