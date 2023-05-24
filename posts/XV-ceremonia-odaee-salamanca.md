@@ -1,12 +1,12 @@
 ---
 author : "Comunidad Conocimiento Colaborativo"
-categories : ["ponencia", "Gotitas de amor"]
+categories : ["Ceremonia", "ODAEE"]
 date : "2023-04-14T13:09:24Z"
 description : "La Organización de las Américas para la Excelencia Educativa (ODAEE) celebró el pasado 14 de abril la XV Ceremonia de Reconocimientos en la histórica Capilla del Colegio Arzobispo Fonseca en Salamanca, España."
 cover_image: "images/general/ODAEE-salamanca-titulados.jpeg"
 slug : "XV-ceremonia-odaee-salamanca"
 summary : "La Organización de las Américas para la Excelencia Educativa (ODAEE) celebró el pasado 14 de abril la XV Ceremonia de Reconocimientos en la histórica Capilla del Colegio Arzobispo Fonseca en Salamanca, España."
-tags : ["ponencia", "Gotitas de amor"]
+tags : ["Ceremonia", "ODAEE"]
 title : "La ODAEE reconoce a destacados educadores en la XV Ceremonia realizada en Salamanca"
 draft : false
 ---
