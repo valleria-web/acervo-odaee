@@ -1,7 +1,7 @@
 ---
 author: "Comunidad Conocimiento Colaborativo"
 categories: ["DHC", "Carlos"]
-date: "2023-01-24T18:50:34Z"
+date: "2023-04-28T18:50:34Z"
 description: "Felicitaciones a Edson Carlos Zaher Rosa por haber sido galardonad con el título Doctor Honoris Causa (ODAEE) 2023."
 cover_image: "images/dhc/edson-carlos-zaher-rosa-dhc.png"
 slug: "edson-carlos-zaher-rosa-doctor-honoris-causa-ODAEE-2023"
