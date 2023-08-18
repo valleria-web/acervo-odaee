@@ -7,7 +7,7 @@ cover_image: "images/dhc/edson-carlos-zaher-rosa-dhc.png"
 slug: "edson-carlos-zaher-rosa-doctor-honoris-causa-ODAEE-2023"
 summary: "Felicitaciones a Edson Carlos Zaher Rosa por haber sido galardonad con el título Doctor Honoris Causa en Medicina - Área de Concentración: Medicina del Deporte y Endocrinología."
 tags: ["DHC", "Carlos"]
-title: "Edson Carlos Zaher Rosa - DhC"
+title: "Edson Carlos Zaher Rosa, Doctor Honoris Causa en Medicina - Área de Concentración: Medicina del Deporte y Endocrinología"
 draft: false
 ---
 
