@@ -13,7 +13,7 @@ draft : false
 
 # Colección de Dibujos participantes del IV Concurso Dibujemos la Paz - Uruguay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBbMx3jtVRw?si=pShSQbT4lKUSAZO5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/clRBRIjgTMg?si=vbZH-2s8LQDSlS2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Los dibujos seleccionados tendrán la oportunidad de ser expuestos en el III Seminario Internacional de Cultura de Paz organizado por la ODAEE en febrero de 2024 en Panama City.
