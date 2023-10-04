@@ -13,7 +13,7 @@ draft : false
 
 # Colección de Dibujos participantes del IV Concurso Dibujemos la Paz - Colombia
 
-<div style="text-align: center;">
+<div style="text-align: center; overflow-x: auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKngElmzB88?si=igapwyNUV4LQWnUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
