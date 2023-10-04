@@ -27,9 +27,9 @@ export default function PostPage({ content, frontmatter }) {
         }}
       />
 
-      <div className="container my-1 p-5">
+      <div className="container">
         <div className="row">
-          <div className="col-lg-10 m-auto">
+          <div className="">
             <div
               className="card card-page"
               style={{ marginLeft: "10px", marginRight: "20px" }}
