@@ -12,12 +12,12 @@ export default function Home({ posts }) {
     <div>
       <NextSeo
         title="Acervo ODAEE"
-        description="Compilación de artículos de la red ODAEE"
+        description="Compilación de artículos y biografías de los galardonados de la rede ODAEE"
         openGraph={{
           url: "",
           title: "Acervo ODAEE",
           description:
-            "Compilación de artículos de la red ODAEE",
+            "Compilación de artículos y biografías de los galardonados de la rede ODAEE",
           images: [
             {
               url: `${ImageUrl("banner.png")}`,

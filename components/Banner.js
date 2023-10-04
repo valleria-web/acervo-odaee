@@ -12,7 +12,7 @@ export default function Banner() {
             height={100}
           />
           <h1 className="fw-bolder">Acervo ODAEE</h1>
-          <p className="lead mb-0">Compilación de artículos de la red ODAEE</p>
+          <p className="lead mb-0">Compilación de artículos y biografías de los galardonados de la rede ODAEE</p>
         </div>
       </div>
     </header>
