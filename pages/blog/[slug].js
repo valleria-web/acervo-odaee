@@ -33,9 +33,10 @@ export default function PostPage({ content, frontmatter }) {
             >
               <a href={`/blog/${frontmatter.slug}`}></a>
 
-              <div className="post-title m-2" >{frontmatter.title}</div>
-              <div className="post-date m-2 ">{frontmatter.author}</div>
+              <div className="post-date m-2"><em>{frontmatter.author}</em></div>
+
               <div className="post-date m-2">
+
                 <div>
                   <div>
                     {`${date.getDate()}/${
