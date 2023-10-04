@@ -26,11 +26,7 @@ export default function PostPage({ content, frontmatter }) {
           },
         }}
       />
-          <div className="container">
-            <div
-              className="card card-page"
-              style={{ marginLeft: "10px", marginRight: "20px" }}
-            >
+            <div className="container card card-page">
               <a href={`/blog/${frontmatter.slug}`}></a>
 
               <div className="post-date m-2"><em>{frontmatter.author}</em></div>
@@ -66,7 +62,6 @@ export default function PostPage({ content, frontmatter }) {
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
               ></div>
             </div>
-          </div>
     </>
   );
 }
