@@ -26,9 +26,6 @@ export default function PostPage({ content, frontmatter }) {
           },
         }}
       />
-
-      <div className="container">
-        <div className="row">
           <div className="container">
             <div
               className="card card-page"
@@ -69,8 +66,6 @@ export default function PostPage({ content, frontmatter }) {
               ></div>
             </div>
           </div>
-        </div>
-      </div>
     </>
   );
 }
