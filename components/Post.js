@@ -9,7 +9,7 @@ export default function Post({ post }) {
   const formattedDate = date.toLocaleDateString('es-ES', { day: 'numeric', month: 'numeric', year: 'numeric' });
 
   return (
-    <div className="col-lg-4">
+    <div className="container">
       <div className="card m-1">
         <img
           src={`/${post.frontmatter.cover_image}`}
