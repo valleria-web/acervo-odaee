@@ -20,9 +20,7 @@ export default function Post({ post }) {
         <div className="card-body">
           <div className="small text-muted">{formattedDate}</div>
           <p className="card-text">{post.frontmatter.author}</p>
-          <h2 className="card-title">{post.frontmatter.title}</h2>
-
-        
+          <h2 className="card-title">{post.frontmatter.title}</h2>     
           <p className="card-text">{post.frontmatter.summary}</p>
 
           <div>
