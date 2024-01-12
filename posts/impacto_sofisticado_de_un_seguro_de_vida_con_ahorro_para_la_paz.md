@@ -1,5 +1,5 @@
 ---
-author: "Comunidad Conocimiento Colaborativo"
+author: "Alcides Gómez Yépez"
 categories: ["III Seminario", "Alcides"]
 date: "2024-01-10T14:09:24Z"
 description: "En  este  círculo  de  excelencia  y  alcurnia,  donde  las  responsabilidades  y  las  expectativas alcanzan  niveles  excepcionales,  es  crucial  considerar  cómo  podemos  garantizar  una  paz sostenible para nosotros y nuestras futuras generaciones..."

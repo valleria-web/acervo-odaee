@@ -1,5 +1,5 @@
 ---
-author: "Comunidad Conocimiento Colaborativo"
+author: "Medardo Plasencia Castellanos"
 categories: ["III Seminario", "Medardo"]
 date: "2024-01-10T13:09:24Z"
 description: "La salud es el equilibrio y la armonía del cuerpo y del espíritu: los sentimientos, las sensaciones, las emociones, los pensamientos; la persona humana es un todo complejo que se realiza su potencial en la convivencia en y con el mundo, es un todo cuerpo y espíritu."
