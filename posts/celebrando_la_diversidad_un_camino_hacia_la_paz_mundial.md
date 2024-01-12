@@ -3,7 +3,7 @@ author: "Carlos Manuel Vázquez"
 categories: ["III Seminario", "Carlos"]
 date: "2024-01-10T14:09:24Z"
 description: "Definiendo la Diversidad Comencemos por comprender qué significa la diversidad. No se trata solo de diferencias étnicas, culturales o religiosas, sino también de la diversidad de opiniones, habilidades, identidades de género, orientaciones sexuales y perspectivas. La verdadera riqueza de la humanidad reside en su diversidad."
-cover_image: "images/seminario/impacto_sofisticado_de_un_seguro_de_vida_con_ahorro_para_la_paz.png"
+cover_image: "images/seminario/celebrando_la_diversidad_un_camino_hacia_la_paz_mundial.png"
 slug: "celebrando_la_diversidad_un_camino_hacia_la_paz_mundial"
 summary: "Definiendo la Diversidad: Comencemos por comprender qué significa la diversidad. No se trata solo de diferencias étnicas, culturales o religiosas, sino también de la diversidad de opiniones, habilidades, identidades de género, orientaciones sexuales y perspectivas. La verdadera riqueza de la humanidad reside en su diversidad. "
 tags: ["III Seminario", "Carlos"]
