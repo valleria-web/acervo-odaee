@@ -3,7 +3,7 @@ author: "Atilio Rodolfo Buendía Giribaldi"
 categories: ["III Seminario", "Atilio"]
 date: "2024-01-10T14:09:24Z"
 description: "El estudio propuesto se centra en examinar las estrategias y metodologías empleadas por estas instituciones para fomentar valores fundamentales como la paz, la tolerancia y la mediación de conflictos."
-cover_image: "images/seminario/celebrando_la_diversidad_un_camino_hacia_la_paz_mundial.png"
+cover_image: "images/seminario/ciencias_basicas_y_conocimiento_de_frontera.png"
 slug: "ciencias_basicas_y_conocimiento_de_frontera"
 summary: "El estudio propuesto se centra en examinar las estrategias y metodologías empleadas por estas instituciones para fomentar valores fundamentales como la paz, la tolerancia y la mediación de conflictos."
 tags: ["III Seminario", "Atilio"]
