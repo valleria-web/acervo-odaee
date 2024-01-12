@@ -18,5 +18,5 @@ draft: false
 Felicitaciones al Dr. César Agustín Serna Escalera por haber sido galardonado con el título Doctor Honoris Causa en Filosofía de la Educación (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España.
 
 <div style="display: flex; justify-content: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0vfm0VCTHsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBthql7EhNk?si=7l4uvYavQmtWehqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
