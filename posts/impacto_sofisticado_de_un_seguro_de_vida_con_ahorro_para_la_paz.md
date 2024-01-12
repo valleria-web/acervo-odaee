@@ -3,7 +3,7 @@ author: "Comunidad Conocimiento Colaborativo"
 categories: ["III Seminario", "Alcides"]
 date: "2024-01-10T14:09:24Z"
 description: "En  este  círculo  de  excelencia  y  alcurnia,  donde  las  responsabilidades  y  las  expectativas alcanzan  niveles  excepcionales,  es  crucial  considerar  cómo  podemos  garantizar  una  paz sostenible para nosotros y nuestras futuras generaciones..."
-cover_image: "images/seminario/el_desarrollo_del_espiritu_en_una_persona_sana.png"
+cover_image: "images/seminario/impacto_sofisticado_de_un_seguro_de_vida_con_ahorro_para_la_paz.png"
 slug: "impacto_sofisticado_de_un_seguro_de_vida_con_ahorro_para_la_paz"
 summary: "En  este  círculo  de  excelencia  y  alcurnia,  donde  las  responsabilidades  y  las  expectativas alcanzan  niveles  excepcionales,  es  crucial  considerar  cómo  podemos  garantizar  una  paz sostenible para nosotros y nuestras futuras generaciones... "
 tags: ["III Seminario", "Alcides"]
@@ -17,7 +17,7 @@ Autor: Alcides Gómez Yépez
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vtelOfRVPwM?si=JQaQ4f5cbhBtD29T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtelOfRVPwM?si=JQaQ4f5cbhBtD29T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ###### La importancia de un seguro de vida con ahorro
 
