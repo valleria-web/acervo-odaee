@@ -13,6 +13,8 @@ draft: false
 
 # Fundação Justus, Premio Sapientiae de Educación para la Paz (ODAEE) 2024
 
+<img src="/images/embajadores/francisco-javier-milian-rodriguez-embajador-de-paz-odaee-2023.png" alt="portada revista" style="width:100%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3)">
+
 Felicitaciones a la Fundação Justus por haber sido galardonada con el Premio Sapientiae de Educación para la Paz (ODAEE) 2024. La ceremonia de premiación se realizará el día 28 de febrero en Ciudad Panamá.
 
 <div style="display: flex; justify-content: center;">
