@@ -31,6 +31,7 @@ Se apoya en conceptos de la física cuántica y ejemplos como el "efecto observa
 
 # El Desarrollo Integral como Pilar de la Educación
 
+<div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-xm-WSC57LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -44,6 +45,7 @@ El Desafío Actual: La Falta de Conciencia
 
 En la actualidad, la mayoría de las personas interfieren y modifican la realidad de manera inconsciente, sin ser plenamente conscientes de cómo lo hacen. Esto se debe en parte a la falta de enfoque en la conexión entre el mundo interior y exterior en la educación convencional. La propuesta de una educación integral busca eliminar esta carencia, capacitando a las personas para comprender y utilizar conscientemente sus capacidades internas.
 
+<div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMof4kIaCiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
