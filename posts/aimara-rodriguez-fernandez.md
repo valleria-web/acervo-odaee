@@ -18,5 +18,5 @@ draft: false
 Felicitaciones a Aimara Rodríguez Fernández por haber sido galardonada con el título Doctor Honoris Causa en Filosofía de la Educación (ODAEE) 2024. La ceremonia de titulación se realizará el día 28 de febrero en ciudad Panamá. 
 
 <div style="display: flex; justify-content: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wUezAsIX5Ug?si=-lzWyW0bwFoklyhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-iYEJ-QMzc?si=jD2lijnHmmw8wEmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
