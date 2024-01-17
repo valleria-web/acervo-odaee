@@ -3,7 +3,7 @@ author: "Elizabeth Salamando Aponte"
 categories: ["III Seminario", "Rafael"]
 date: "2024-01-12T15:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, el Dr. Rafael Leonidas Alcántara Fortuna presentará una ponencia titulada Propuesta de estrategia metodológica aplicando las TIC para el aprendizaje de las matemáticas"
-cover_image: "images/seminario/elizabeth-salamando-aponte.png"
+cover_image: "images/seminario/rafael-leonidas-alcantara-fortuna.png"
 slug: "aplicacion-de-las-tics-para-mejorar-el-aprendizaje-de-matematicas-en-la-uasd"
 summary: "En el marco del III Seminario Internacional de Cultura de Paz, el Dr. Rafael Leonidas Alcántara Fortuna presentará una ponencia titulada Propuesta de estrategia metodológica aplicando las TIC para el aprendizaje de las matemáticas"
 tags: ["III Seminario", "Rafael"]
