@@ -2,10 +2,10 @@
 author: "Marixa Fuentes de Martínez"
 categories: ["III Seminario", "Marixa"]
 date: "2024-01-14T15:09:24Z"
-description: "En el marco del III Seminario Internacional de Cultura de Paz, Marixa Fuentes de Martínez presentará la ponencia titulada Dosis de optimismo espiritual emocional como camino para el fortalecimiento de la paz social"
+description: "En el marco del III Seminario Internacional de Cultura de Paz, Marixa Fuentes de Martínez presentará la ponencia titulada Dosis de optimismo espiritual emocional como camino para el fortalecimiento de la paz social."
 cover_image: "images/seminario/silvia-grecia.png"
 slug: "dosis-de-optimismo"
-summary: "En el marco del III Seminario Internacional de Cultura de Paz, Marixa Fuentes de Martínez presentará la ponencia titulada Dosis de optimismo espiritual emocional como camino para el fortalecimiento de la paz social"
+summary: "En el marco del III Seminario Internacional de Cultura de Paz, Marixa Fuentes de Martínez presentará la ponencia titulada Dosis de optimismo espiritual emocional como camino para el fortalecimiento de la paz social."
 tags: ["III Seminario", "Marixa"]
 title: "Dosis de optimismo espiritual-emocional como camino para el fortalecimiento de la paz social"
 draft: false
