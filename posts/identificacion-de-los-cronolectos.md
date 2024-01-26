@@ -5,7 +5,7 @@ date: "2024-01-13T15:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, las doctoras Zelma Solis y Ana María Díaz Louis presentarán la investigación titulada Identificación de los sociolectos propios del Argot Pandilleril en la construcción del mensaje como estrategia para la convivencia pacífica"
 cover_image: "images/seminario/ana-maria-diaz-louis-3.png"
 slug: "identificacion-de-los-sociolectos"
-summary: "En el marco del III Seminario Internacional de Cultura de Paz, las doctoras Zelma Solis y Ana María Díaz Louis presentarán..."
+summary: "En el marco del III Seminario Internacional de Cultura de Paz..."
 tags: ["III Seminario", "cronolectos"]
 title: "Identificación de los cronolectos propios del argot pandilleril utilizados en la construcción del mensaje de los jovenes panameños como estrategia para el fortalecimiento de una cultura de paz"
 draft: false
