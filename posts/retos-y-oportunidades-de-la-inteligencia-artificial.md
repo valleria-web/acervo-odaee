@@ -7,7 +7,7 @@ cover_image: "images/seminario/silvia-grecia.png"
 slug: "retos-y-oportunidades-de-la-inteligencia-artificial"
 summary: "En el marco del III Seminario Internacional de Cultura de Paz, las doctoras Silvia Liliana Tejada Yépez y Grecia Cando Gossdenovich abordaron el tema Retos y Oportunidades de la Inteligencia Artificial en la Educación."
 tags: ["III Seminario", "IA"]
-title: "Retos y Oportunidades de la Inteligencia Artificial en la Educacion"
+title: "Retos y Oportunidades de la Inteligencia Artificial en la Educación"
 draft: false
 ---
 
