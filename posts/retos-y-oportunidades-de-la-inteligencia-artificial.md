@@ -3,7 +3,7 @@ author: "Silvia Tejada Yépez y Grecia Cando Gossdenovich"
 categories: ["III Seminario", "IA"]
 date: "2024-01-14T15:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, las doctoras Silvia Liliana Tejada Yépez y Grecia Cando Gossdenovich abordaron el tema Retos y Oportunidades de la Inteligencia Artificial en la Educación"
-cover_image: "images/seminario/zelma-solis-2.png"
+cover_image: "images/seminario/silvia-grecia.png"
 slug: "retos-y-oportunidades-de-la-inteligencia-artificial"
 summary: "En el marco del III Seminario Internacional de Cultura de Paz, las doctoras Silvia Liliana Tejada Yépez y Grecia Cando Gossdenovich abordaron el tema Retos y Oportunidades de la Inteligencia Artificial en la Educación."
 tags: ["III Seminario", "IA"]
