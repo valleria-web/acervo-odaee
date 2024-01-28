@@ -4,7 +4,7 @@ categories: ["III Seminario", "Emelda"]
 date: "2024-01-16T15:09:24Z"
 description: "Fomentar las competencias ciudadanas mediante el trabajo en equipo comunitario a través de las bellas artes con los jóvenes.
 "
-cover_image: "images/seminario/luis-alberto.png"
+cover_image: "images/seminario/emelda-guerra.png"
 slug: "cultura-comunitaria"
 summary: "Fomentar las competencias ciudadanas mediante el trabajo en equipo comunitario a través de las bellas artes con los jóvenes.
 "
