@@ -3,7 +3,7 @@ author: "Juan Enrique Cadena Espinoza"
 categories: ["III Seminario", "Juan"]
 date: "2024-01-16T20:09:24Z"
 description: "El siglo XXI, se caracteriza por el movimiento vertiginoso de la sociedad a través del avance de las tecnologías de la informática y la comunicación, pasando de una era de la información a una era del conocimiento, dejando en un segundo plano la naturaleza del ser humano. Para revertir el proceso y que sea prioridad la naturaleza humana, se debe priorizar en la formación de líderes con liderazgo social."
-cover_image: "images/seminario/emelda-guerra.png"
+cover_image: "images/seminario/juan-enrique.png"
 slug: "liderazgo-social"
 summary: "El siglo XXI, se caracteriza por el movimiento vertiginoso de la sociedad a través del avance de las tecnologías de la informática y la comunicación, pasando de una era de la información a una era del conocimiento, dejando en un segundo plano la naturaleza del ser humano. Para revertir el proceso y que sea prioridad la naturaleza humana, se debe priorizar en la formación de líderes con liderazgo social."
 tags: ["III Seminario", "Juan"]
