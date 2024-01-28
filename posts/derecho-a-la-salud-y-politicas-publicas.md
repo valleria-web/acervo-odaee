@@ -1,5 +1,5 @@
 ---
-author: "Marixa Fuentes de Martínez"
+author: "Maritza Cárdenas Peña"
 categories: ["III Seminario", "Maritza"]
 date: "2024-01-15T15:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, Maritza Cárdenas Peña presentará una ponencia sobre el derecho a la salud en pacientes con Enfermedades Raras en Ecuador. "
