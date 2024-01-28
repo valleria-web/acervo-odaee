@@ -1,11 +1,11 @@
 ---
 author: "Luis Alberto Padilla Guevara"
 categories: ["III Seminario", "Luis"]
-date: "2024-01-15T15:09:24Z"
+date: "2024-01-16T15:09:24Z"
 description: "La evolución del Derecho de Autor se entrelaza con los avances tecnológicos, desde la imprenta hasta la inteligencia artificial (IA). Con la llegada de la IA, se plantean desafíos fundamentales para la protección de obras y derechos. La historia del Derecho de Autor ha transitado desde la reproducción analógica hasta la era digital, enfrentando retos emergentes."
-cover_image: "images/seminario/maritza-cardenas.png"
+cover_image: "images/seminario/luis-alberto.png"
 slug: "el-derecho-de-autor-en-tiempos-de-inteligencia-artificial"
-summary: "La evolución del Derecho de Autor se entrelaza con los avances tecnológicos, desde la imprenta hasta la inteligencia artificial (IA). Con la llegada de la IA, se plantean desafíos fundamentales para la protección de obras y derechos..."
+summary: "La evolución del Derecho de Autor se entrelaza con los avances tecnológicos, desde la imprenta hasta la inteligencia artificial (IA). Con la llegada de la IA, se plantean desafíos fundamentales para la protección de obras y derechos. La historia del Derecho de Autor ha transitado desde la reproducción analógica hasta la era digital, enfrentando retos emergentes."
 tags: ["III Seminario", "Luis"]
 title: "El derecho de autor en tiempos de inteligencia artificial"
 draft: false
