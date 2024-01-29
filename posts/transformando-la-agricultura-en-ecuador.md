@@ -18,7 +18,7 @@ Autor: Juan Carlos Valencia Benitez
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p2JSbQZNCBQ?si=kbL-x2_Rf-scW50h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lGGzWLHW3JE?si=AV1hR1FDw83oTXSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 En el marco del III Seminario Internacional de Cultura de Paz, Juan Carlos Valencia Benitez, presidente de la Fundación Internacional Transformados, presentará una ponencia innovadora titulada "Transformando la Agricultura en Ecuador: Una Estrategia de Capacitación para Actores Comunitarios".
