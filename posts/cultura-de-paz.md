@@ -3,7 +3,7 @@ author: "Abigail Benitez Pillajo"
 categories: ["III Seminario", "Abigail"]
 date: "2024-01-22T20:09:24Z"
 description: "La presentación se sumerge en la complejidad de definir y contextualizar la cultura de paz, explorando la intersección entre la transformación personal y el compromiso social en la construcción de un mundo más armonioso."
-cover_image: "images/seminario/petra-serracin.png"
+cover_image: "images/seminario/abigail-benitez.png"
 slug: "cultura-de-paz"
 summary: "La presentación se sumerge en la complejidad de definir y contextualizar la cultura de paz, explorando la intersección entre la transformación personal y el compromiso social en la construcción de un mundo más armonioso."
 tags: ["III Seminario", "Abigail"]
@@ -18,7 +18,7 @@ Autor: Abigail Benitez Pillajo
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wkn-TJfUM7w?si=q0J3GGc8zcy7sw1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2JSbQZNCBQ?si=kbL-x2_Rf-scW50h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 En el marco del III Seminario Internacional de Cultura de Paz, Abigail Benitez Pillajo presentará una ponencia reflexiva titulada "Cultura de Paz: Transformación Personal y Compromiso Social". La presentación se sumerge en la complejidad de definir y contextualizar la cultura de paz, explorando la intersección entre la transformación personal y el compromiso social en la construcción de un mundo más armonioso.
