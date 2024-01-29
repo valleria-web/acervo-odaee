@@ -3,7 +3,7 @@ author: "Petra Serracín de Franco"
 categories: ["III Seminario", "Petra"]
 date: "2024-01-22T20:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, la destacada educadora Petra Serracín de Franco presentará un proyecto que busca impactar de manera positiva en la sensibilidad y el cuidado de la naturaleza desde las aulas escolares."
-cover_image: "images/seminario/juan-enrique.png"
+cover_image: "images/seminario/petra-serracin.png"
 slug: "los-jardines-escolares"
 summary: "En el marco del III Seminario Internacional de Cultura de Paz, la destacada educadora Petra Serracín de Franco presentará un proyecto que busca impactar de manera positiva en la sensibilidad y el cuidado de la naturaleza desde las aulas escolares."
 tags: ["III Seminario", "Petra"]
