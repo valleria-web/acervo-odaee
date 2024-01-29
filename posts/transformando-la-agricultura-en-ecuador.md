@@ -1,7 +1,7 @@
 ---
 author: "Juan Carlos Valencia Benitez"
 categories: ["III Seminario", "Juan"]
-date: "2023-01-22T20:09:24Z"
+date: "2024-01-22T20:09:24Z"
 description: "En el marco del III Seminario Internacional de Cultura de Paz, Juan Carlos Valencia Benitez, presidente de la Fundación Internacional Transformados, presentará una ponencia innovadora titulada Transformando la Agricultura en Ecuador Una Estrategia de Capacitación para Actores Comunitarios"
 cover_image: "images/seminario/abigail-benitez.png"
 slug: "transformando-la-agricultura-en-ecuador"
