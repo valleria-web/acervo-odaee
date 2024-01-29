@@ -18,7 +18,7 @@ Autor: Petra Serracín de Franco
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cW-97tvxLK0?si=uuq52w4Lg5i5r6ix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wkn-TJfUM7w?si=q0J3GGc8zcy7sw1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 En el marco del III Seminario Internacional de Cultura de Paz, la destacada educadora Petra Serracín de Franco presentará un proyecto que busca impactar de manera positiva en la sensibilidad y el cuidado de la naturaleza desde las aulas escolares. Bajo el título "Los Jardines Escolares para fomentar el amor a la naturaleza y la cultura de paz", esta iniciativa tiene como objetivo principal promover la conexión de los estudiantes con el entorno natural desde una edad temprana.
