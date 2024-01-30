@@ -3,7 +3,7 @@ author: "Nayeth Idalid Solórzano Alcívar"
 categories: ["III Seminario", "Nayeth"]
 date: "2024-01-23T20:09:24Z"
 description: "En el III Seminario Internacional de Cultura de Paz, Nayeth Idalid Solórzano Alcívar presentará la ponencia titulada El uso de ciencia, arte y tecnología en la educación infantil como promotores de paz"
-cover_image: "images/seminario/juan-carlos-valencia-b.png"
+cover_image: "images/seminario/nayeth-solorzano.png"
 slug: "el-uso-de-ciencia-arte-y-tecnologia-en-la-educacion"
 summary: "En el III Seminario Internacional de Cultura de Paz, Nayeth Idalid Solórzano Alcívar presentará la ponencia titulada El uso de ciencia, arte y tecnología en la educación infantil como promotores de paz"
 tags: ["III Seminario", "Nayeth"]
@@ -18,7 +18,7 @@ Autor: Nayeth Idalid Solórzano Alcívar
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lGGzWLHW3JE?si=AV1hR1FDw83oTXSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iKkkh0pzZo?si=KDdI7eHHbGAOT1Ng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 En el III Seminario Internacional de Cultura de Paz, Nayeth Idalid Solórzano Alcívar presentará la ponencia titulada "El uso de ciencia, arte y tecnología en la educación infantil como promotores de paz".
