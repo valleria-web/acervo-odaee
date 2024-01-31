@@ -16,6 +16,11 @@ draft : false
 
 Descargue la revista del evento, versión preliminar. 
 
+[Descargar revista-panama-2024.pdf](/pdf/revista-panama-2024.pdf)
+<a href="/pdf/revista-panama-2024.pdf" download>
+  <button>Descargar</button>
+</a>
+
 <object data="/pdf/revista-panama-2024.pdf" type="application/pdf" width="100%" height="800">
   <p>Display PDF</p>
 </object>
