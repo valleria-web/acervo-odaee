@@ -11,7 +11,7 @@ title : "Programa del III Seminario de Cultura de Paz y XVI Ceremonia de Reconoc
 draft : false
 ---
 
-# Programa del III Seminario de Cultura de Paz y XVI Ceremonia de Reconocimientos ODAEE. Panama-2024
+# Programa del III Seminario de Cultura de Paz y XVI Ceremonia de Reconocimientos ODAEE. Panamá, febrero de 2024.
 
 
 Descargue el programa del evento. 
