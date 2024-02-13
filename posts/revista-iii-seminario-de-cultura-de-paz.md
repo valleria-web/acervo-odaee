@@ -2,19 +2,19 @@
 author : "Comunidad Conocimiento Colaborativo"
 categories : ["III Seminario", "Panama"]
 date : "2024-01-31T13:09:24Z"
-description : "Descargue la revista del evento."
+description : "Descargue el programa del evento."
 cover_image: "images/seminario/odaee-panama-portada.png"
 slug : "revista-iii-seminario-de-cultura-de-paz"
-summary : "Descargue la revista del evento."
+summary : "Descargue el programa del evento."
 tags : ["III Seminario", "Panama"]
-title : "Revista III Seminario de Cultura de Paz"
+title : "Programa del III Seminario de Cultura de Paz y XVI Ceremonia de Reconocimientos ODAEE. Panama-2024"
 draft : false
 ---
 
-# Revista III Seminario de Cultura de Paz ODAEE. Panama-2024
+# Programa del III Seminario de Cultura de Paz y XVI Ceremonia de Reconocimientos ODAEE. Panama-2024
 
 
-Descargue la revista del evento, versión preliminar. 
+Descargue el programa del evento. 
 
 [Descargar revista-panama-2024.pdf](/pdf/revista-panama-2024.pdf)
 <a href="/pdf/revista-panama-2024.pdf" download>
