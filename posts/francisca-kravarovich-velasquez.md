@@ -1,5 +1,5 @@
 ---
-author: ""
+author: "Comunidad Conocimiento Colaborativo"
 categories: ["Embajador", "Francisca"]
 date: "2024-03-01T21:45:50Z"
 description: "Felicitaciones a Francisca Kravarovich Velásquez por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2024. La ceremonia de titulación se realizó el día 28 de febrero en ciudad Panamá."
