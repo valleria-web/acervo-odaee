@@ -1,7 +1,7 @@
 ---
 author: "Comunidad Conocimiento Colaborativo"
 categories: ["Gotitas de Amor", "Elizabeth"]
-date: "2024-11-07T21:52:34Z"
+date: "2024-11-08T21:52:34Z"
 description: "Recientemente, la DhC. Elizabeth Salamando, vicepresidenta de la ODAEE, visitó la unidad de Pediatría del Hospital Mario Corea en Cali, llevando consigo una serie de actividades con el propósito de infundir esperanza y alegría a los niños hospitalizados."
 cover_image: "images/general/Eli_01.jpeg"
 slug: "gotitas-de-amor"
