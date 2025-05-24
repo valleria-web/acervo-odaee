@@ -25,7 +25,9 @@ Este galardón también reconoce su contribución a los principios de la democra
 
 Acta del galardón en el siguiente enlace:
 
-[Ver ACTA de nombramiento - PDF](/actas/laura-suarez-galeano_acta-embajadora-paz.pdf)
+<a href="/actas/laura-suarez-galeano_acta-embajadora-paz.pdf" target="_blank" rel="noopener noreferrer">
+  Ver ACTA de nombramiento - PDF
+</a>
 
 
 Desde la ODAEE, extendemos nuestras más sinceras felicitaciones a Laura Suárez Galeano por este merecido reconocimiento que refleja su incansable labor por la paz y el desarrollo.
