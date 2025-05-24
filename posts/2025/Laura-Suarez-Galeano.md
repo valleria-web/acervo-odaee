@@ -13,7 +13,7 @@ draft: false
 
 # Laura Suárez Galeano, Embajadora de Paz (ODAEE 2025)
 
-<img src="/images/embajadores/laura-suarez-galeano-banner.jpg" alt="Laura Suárez Galeano, Embajadora de Paz" style="width:100%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3)">
+<img src="public/images/embajadores/laura-suarez-galeano-banner.jpg" alt="Laura Suárez Galeano, Embajadora de Paz" style="width:100%; max-width:400px; display:block; margin:auto; box-shadow: 2px 2px 5px rgba(0,0,0,0.3)">
 
 En el ámbito del emprendimiento y la innovación en América Latina, Laura Suárez Galeano se ha consolidado como una líder clave en la creación de ecosistemas colaborativos. Su trayectoria sobresaliente y su compromiso con la transformación digital han impulsado iniciativas que promueven el crecimiento empresarial con equidad e inclusión.
 
@@ -25,7 +25,7 @@ Este galardón también reconoce su contribución a los principios de la democra
 
 Acta del galardón en el siguiente enlace:
 
-[Ver ACTA de nombramiento - PDF](/actas/laura-suarez-galeano_acta-embajadora-paz.pdf)
+[Ver ACTA de nombramiento - PDF](public/actas/laura-suarez-galeano_acta-embajadora-paz.pdf)
 
 
 Desde la ODAEE, extendemos nuestras más sinceras felicitaciones a Laura Suárez Galeano por este merecido reconocimiento que refleja su incansable labor por la paz y el desarrollo.
