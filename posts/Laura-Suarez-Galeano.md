@@ -23,11 +23,7 @@ El reconocimiento como *Embajadora de Paz* (ODAEE 2025) resalta su papel en la c
 
 Este galardón también reconoce su contribución a los principios de la democracia, la inclusión financiera y tecnológica, y su dedicación a visibilizar actos de paz realizados por personas en todo el mundo.
 
-<p>Acta del galardón en el siguiente enlace:</p>
-
-
-ACTA de nombramiento:
-
+Acta del galardón:
 
 <div style="margin-top: 2rem;">
   <iframe 
