@@ -25,9 +25,9 @@ Este galardón también reconoce su contribución a los principios de la democra
 
 <p>Acta del galardón en el siguiente enlace:</p>
 
-<a href="/actas/laura-suarez-galeano_acta-embajadora-paz.pdf" target="_blank" rel="noopener noreferrer">
-  Ver ACTA de nombramiento - PDF
-</a>
+
+ACTA de nombramiento:
+
 
 <div style="margin-top: 2rem;">
   <iframe 
