@@ -3,34 +3,21 @@ import path from 'path'
 import matter from 'gray-matter'
 import ItemPost from '../../components/ItemPost'
 import { slugify, ImageUrl } from '../../utils'
-import { NextSeo } from 'next-seo'
+import { NextSeo } from 'next-seo';
 
-// Función recursiva para obtener todos los archivos Markdown
-function getAllMarkdownFiles(dirPath, arrayOfFiles = []) {
-  const files = fs.readdirSync(dirPath)
-
-  files.forEach((file) => {
-    const filePath = path.join(dirPath, file)
-    if (fs.statSync(filePath).isDirectory()) {
-      getAllMarkdownFiles(filePath, arrayOfFiles)
-    } else if (filePath.endsWith('.md') || filePath.endsWith('.mdx')) {
-      arrayOfFiles.push(filePath)
-    }
-  })
-
-  return arrayOfFiles
-}
 
 export default function Category({ posts }) {
+
   return (
     <>
-      <NextSeo
-        title="Access your category related articles"
-        description="Access your category related articles"
+     <NextSeo
+     title= 'Access your category realted articles'
+     description= 'Access your category realted articles'
         openGraph={{
           url: '',
-          title: 'Access your category related articles',
-          description: 'Access your category related articles',
+          title: 'Access your category realted articles',
+          description: 'Access your category realted articles',
+
           images: [
             {
               url: `${ImageUrl('banner.png')}`,
@@ -44,75 +31,139 @@ export default function Category({ posts }) {
         }}
       />
 
+
       <div className="container my-3">
         <div className="row">
-          <div className="col-lg-10 post-date m-1 p-2 m-auto">
-            {posts.map((post, index) => (
-              <ItemPost key={index} post={post} />
-            ))}
+
+          <div className="col-lg-10 post-date m-1 p-2m-auto">
+
+            {
+              posts.map((post, index) => {
+
+                return <ItemPost key={index} post={post} />
+              }
+              )
+
+            }
+
+
           </div>
+
+
         </div>
       </div>
     </>
   )
+
+
+
+
+
 }
 
-export async function getStaticPaths() {
-  const files = getAllMarkdownFiles(path.join(process.cwd(), 'posts'))
-  let categorySlugs = new Set()
 
-  files.forEach((filePath) => {
-    const markdownWithMeta = fs.readFileSync(filePath, 'utf-8')
+export async function getStaticPaths() {
+  const files = fs.readdirSync(path.join('posts'))
+
+  let tempStorage = []
+
+  const temppaths = files.map((filename) => {
+
+    const markdownWithMeta = fs.readFileSync(
+      path.join('posts', filename),
+      'utf-8'
+    )
+
     const { data: frontmatter } = matter(markdownWithMeta)
 
-    if (frontmatter.draft === false && Array.isArray(frontmatter.categories)) {
-      frontmatter.categories.forEach((category) => {
-        categorySlugs.add(slugify(category))
-      })
+    if (frontmatter.draft === false) {
+      frontmatter.categories.map(
+        category => {
+          let slug = slugify(category)
+          tempStorage.push({ params: { slug } });
+
+        }
+      )
+    } else {
+      return null
     }
+
+
   })
 
-  const paths = [...categorySlugs].map((slug) => ({
-    params: { slug },
-  }))
+
+
+
+  const paths = tempStorage.filter((item,
+    index) => {
+    return tempStorage.indexOf(item) === index
+  })
+
+
+
+
 
   return {
     paths,
     fallback: false,
   }
+
 }
 
 export async function getStaticProps({ params: { slug } }) {
-  const files = getAllMarkdownFiles(path.join(process.cwd(), 'posts'))
-  let posts = []
 
-  files.forEach((filePath) => {
-    const markdownWithMeta = fs.readFileSync(filePath, 'utf-8')
+  // Get files from the posts dir
+  const files = fs.readdirSync(path.join('posts'))
+
+  let tempStorage = []
+
+
+
+  // Get slug and frontmatter from posts
+
+  const tempPosts = files.map((filename) => {
+
+    // Get frontmatter
+    const markdownWithMeta = fs.readFileSync(
+      path.join('posts', filename),
+      'utf-8'
+    )
+
     const { data: frontmatter } = matter(markdownWithMeta)
 
-    if (frontmatter.draft === false && Array.isArray(frontmatter.categories)) {
-      const matchesCategory = frontmatter.categories.some(
-        (category) => slugify(category) === slug
+
+
+    if (frontmatter.draft === false) {
+      frontmatter.categories.map(
+        category => {
+          let categroySlug = slugify(category)
+          if (slug === categroySlug) {
+
+            tempStorage.push({ post: frontmatter })
+
+          }
+        }
       )
-
-      if (matchesCategory) {
-        const generatedSlug = filePath
-          .replace(path.join(process.cwd(), 'posts'), '')
-          .replace(/\.mdx?$/, '')
-          .replace(/\\/g, '/')
-          .replace(/^\//, '')
-
-        posts.push({
-          ...frontmatter,
-          slug: generatedSlug,
-        })
-      }
+    } else {
+      return null
     }
   })
 
+
+  //  remove null in tempPosts 
+
+  const posts = tempStorage.filter(
+    post => {
+
+      return post && post
+    }
+  )
+
   return {
     props: {
-      posts,
+      posts
     },
   }
+
+
 }
