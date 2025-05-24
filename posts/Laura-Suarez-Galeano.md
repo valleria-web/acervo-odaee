@@ -23,11 +23,21 @@ El reconocimiento como *Embajadora de Paz* (ODAEE 2025) resalta su papel en la c
 
 Este galardón también reconoce su contribución a los principios de la democracia, la inclusión financiera y tecnológica, y su dedicación a visibilizar actos de paz realizados por personas en todo el mundo.
 
-Acta del galardón en el siguiente enlace:
+<p>Acta del galardón en el siguiente enlace:</p>
 
 <a href="/actas/laura-suarez-galeano_acta-embajadora-paz.pdf" target="_blank" rel="noopener noreferrer">
   Ver ACTA de nombramiento - PDF
 </a>
+
+<div style="margin-top: 2rem;">
+  <iframe 
+    src="/actas/laura-suarez-galeano_acta-embajadora-paz.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border: none;">
+  </iframe>
+</div>
+
 
 
 Desde la ODAEE, extendemos nuestras más sinceras felicitaciones a Laura Suárez Galeano por este merecido reconocimiento que refleja su incansable labor por la paz y el desarrollo.
