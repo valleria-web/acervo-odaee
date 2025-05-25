@@ -65,6 +65,7 @@ Ha participado regularmente en medios de comunicación, incluyendo programas de 
 
 ---
 
+
 ## Acta del Galardón
 
 <div style="margin-top: 2rem; text-align:center;">
@@ -84,7 +85,7 @@ Desde la **ODAEE**, extendemos nuestras más sinceras felicitaciones a **Guiller
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="<iframe width="560" height="315" src="https://www.youtube.com/embed/g7NAF46djfM?si=tEh0_1BuTpPWo5-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
+    src="https://www.youtube.com/embed/g7NAF46djfM?si=tEh0_1BuTpPWo5-V" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
