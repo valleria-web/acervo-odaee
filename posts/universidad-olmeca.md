@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Universidad Olmeca"]
-date: "2025-05-25T10:00:00Z"
+date: "2025-05-25T16:00:00Z"
 description: "La Universidad Olmeca, institución educativa de excelencia en Tabasco, México, ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su compromiso con la formación integral, la innovación y el desarrollo humano."
 cover_image: "images/sapientiae/universidad-olmeca.jpg"
 slug: "universidad-olmeca"
