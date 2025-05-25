@@ -74,8 +74,19 @@ Su incansable labor ha sido reconocida internacionalmente, siendo **nominada y g
 
 ---
 
-## Felicitación Especial
-
 Desde la **ODAEE**, extendemos nuestras más sinceras felicitaciones a **Rossely Alcántara Piña** por este merecido reconocimiento, símbolo de su entrega a la construcción de una cultura de paz, equidad y educación transformadora.
+
+---
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/1HJ8FhlhrlA?si=5_94tsgn9lQGbCKk" 
+    title="YouTube video player"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---

@@ -84,8 +84,19 @@ Fundador y director del **Liceo Samario** en Bogotá D.C., institución reconoci
 
 ---
 
-## Felicitación Especial
-
 Desde la **ODAEE**, extendemos nuestras más sinceras felicitaciones a **Guillermo Alejandro González Tovar** por este merecido reconocimiento que refleja su incansable labor por la **educación**, la **ética docente** y la **paz**.
+
+---
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/F2pglvhwXps?si=YWBWKEXbgUyhzDDK" 
+    title="YouTube video player"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
