@@ -1,12 +1,12 @@
 ---
 author: ""
-categories: ["Educación en Chile", "Colegio Francisco Encina"]
+categories: ["<Sapientiae>", "Colegio Francisco Encina"]
 date: "2025-05-25T30:00:00Z"
 description: "Con más de tres décadas de trayectoria, el Colegio Francisco Encina se ha consolidado como uno de los establecimientos educativos más destacados de Chile, reconocido por su excelencia académica y su compromiso con la formación integral."
 cover_image: "images/sapientiae/colegio-francisco-encina.jpg"
 slug: "colegio-francisco-encina"
 summary: "Con más de tres décadas de trayectoria, el Colegio Francisco Encina se ha consolidado como uno de los establecimientos educativos más destacados de Chile, reconocido por su excelencia académica y su compromiso con la formación integral."
-tags: ["Colegio Francisco Encina", "Educación en Chile"]
+tags: ["Colegio Francisco Encina", "Sapientiae"]
 title: "Colegio Francisco Encina: Excelencia Académica y Formación Integral en Ñuñoa, Santiago de Chile"
 draft: false
 ---
