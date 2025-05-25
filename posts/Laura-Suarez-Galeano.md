@@ -34,8 +34,6 @@ Acta del galardón:
   </iframe>
 </div>
 
-
-
 Desde la ODAEE, extendemos nuestras más sinceras felicitaciones a Laura Suárez Galeano por este merecido reconocimiento que refleja su incansable labor por la paz y el desarrollo.
 
 ---
