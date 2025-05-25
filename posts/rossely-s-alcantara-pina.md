@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajador", "Rossely"]
-date: "2025-05-24T20:35:34Z"
+date: "2025-05-24T20:36:34Z"
 description: "Felicitaciones a Rossely Alcántara Piña por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2025."
 cover_image: "images/embajadores/rossely-s-alcantara-pina.jpg"
 slug: "rossely-s-alcantara-pina"
