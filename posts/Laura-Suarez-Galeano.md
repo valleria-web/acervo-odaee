@@ -2,7 +2,7 @@
 author: ""
 categories: ["Embajador", "Laura"]
 date: "2025-05-24T20:35:34Z"
-description: "Felicitaciones a Laura Suárez Galeano por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2025. La ceremonia de titulación se realizó el día 28 de febrero en Ciudad de Panamá."
+description: "Felicitaciones a Laura Suárez Galeano por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2025."
 cover_image: "images/embajadores/laura-suarez-galeano.jpg"
 slug: "laura-suarez-galeano"
 summary: "Felicitaciones a Laura Suárez Galeano por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2025."
