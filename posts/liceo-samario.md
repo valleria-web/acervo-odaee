@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Liceo Samario"]
-date: "2025-05-25T10:00:00Z"
+date: "2025-05-25T20:00:00Z"
 description: "El Liceo Samario, con más de 40 años de trayectoria en formación ciudadana con énfasis en valores, ha sido nominado al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su compromiso con la excelencia académica, la cultura y el desarrollo humano."
 cover_image: "images/sapientiae/liceo-samario.jpg"
 slug: "liceo-samario"
