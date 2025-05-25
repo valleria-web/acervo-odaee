@@ -1,9 +1,9 @@
 ---
 author: ""
 categories: ["Maestro Ad Vitam", "Guillermo"]
-date: "2025-05-24T20:36:34Z"
+date: "2025-05-24T20:37:34Z"
 description: "Felicitaciones a Guillermo Alejandro González Tovar por haber sido galardonado con el título Maestro Ad Vitam (ODAEE) 2025."
-cover_image: "images/embajadores/rossely-s-alcantara-pina.jpg"
+cover_image: "images/maestro-ad-vitam/guillermo-alejandro-gonzalez-tovar.jpg"
 slug: "guillermo-alejandro-gonzalez-tovar"
 summary: "Felicitaciones a Guillermo Alejandro González Tovar por haber sido galardonado con el título Maestro Ad Vitam (ODAEE) 2025."
 tags: ["Maestro Ad Vitam", "Guillermo"]
