@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Universidad Metropolitana", "UMET"]
-date: "2025-05-25T10:00:00Z"
+date: "2025-05-25T21:00:00Z"
 description: "La Universidad Metropolitana de Ecuador (UMET), reconocida por su enfoque en la innovación, la ética y la formación de profesionales altamente calificados, ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025."
 cover_image: "images/sapientiae/umet.jpg"
 slug: "universidad-metropolitana-umet"
