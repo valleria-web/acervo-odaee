@@ -14,7 +14,9 @@ draft: false
 # Laura Suárez Galeano  
 ## Embajadora de Paz (ODAEE 2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yWNEvE23mAM?si=WVGYNnBKFCccpnyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align:center; margin: 2rem 0;">
+  <img src="/images/embajadores/laura-suarez-galeano.jpg" alt="Laura Suárez Galeano, Embajadora de Paz" style="width:100%; max-width:400px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
 En el ámbito del emprendimiento y la innovación en América Latina, **Laura Suárez Galeano** se ha consolidado como una líder clave en la creación de ecosistemas colaborativos. Su trayectoria sobresaliente y su compromiso con la transformación digital han impulsado iniciativas que promueven el crecimiento empresarial con equidad e inclusión.
 
@@ -52,8 +54,19 @@ El reconocimiento como **Embajadora de Paz** por parte de la **Organización de 
 
 ---
 
-## Felicitación Oficial
-
 Desde la **ODAEE**, extendemos nuestras más sinceras felicitaciones a **Laura Suárez Galeano** por este merecido reconocimiento. Su ejemplo inspira un camino hacia una América Latina más conectada, equitativa y comprometida con la paz.
+
+---
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/yWNEvE23mAM?si=WVGYNnBKFCccpnyH" 
+    title="YouTube video player"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
