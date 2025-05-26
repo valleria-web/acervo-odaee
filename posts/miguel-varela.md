@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Miguel Varela", "Doctorado Honoris Causa"]
-date: "2025-05-25"
+date: "2025-05-25T00:00:00Z"
 description: "Miguel Nuno Vieira de Carvalho d'Abreu Varela ha sido distinguido con el Doctorado Honoris Causa en Ciencias Económicas por su trayectoria académica, su compromiso con la educación superior y su contribución al pensamiento económico en Portugal e Iberoamérica."
 cover_image: "images/dhc/miguel-varela.jpg"
 slug: "miguel-varela"
