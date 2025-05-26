@@ -1,74 +1,92 @@
-import Post from '../components/Post'
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import Post from "../components/Post";
 import Banner from "../components/Banner";
-import search from "../search.json";
-import { useRouter } from 'next/router'
-import { NextSeo } from 'next-seo';
-import { ImageUrl} from '../utils'
+import { useRouter } from "next/router";
+import { NextSeo } from "next-seo";
+import { ImageUrl } from "../utils";
 
-export default function Search() {
-    const { query } = useRouter()
-    const TempPosts = [] 
+export default function Search({ posts }) {
+  const { query } = useRouter();
+  const q = query.q?.toLowerCase() || "";
 
-    search.map(
-        (post) => {
-            if (post.frontmatter.draft === false) {
-                if (post.frontmatter.title.toLowerCase().includes(query.q) || post.frontmatter.summary.toLowerCase().includes(query.q) || post.frontmatter.description.toLowerCase().includes(query.q)) {
-                    TempPosts.push(post)
-                } else {
-                    TempPosts.push(null)
-                }
-            }
-        }
-    )
-
-    //   remove null in posts 
-    const posts = TempPosts.filter(
-        path => {
-            return path && path
-        }
-    )
-
+  // Filtrar posts que contengan la query en título, resumen o descripción
+  const filteredPosts = posts.filter((post) => {
+    const { title, summary, description } = post.frontmatter;
     return (
-        <div>
-           <NextSeo
+      title.toLowerCase().includes(q) ||
+      summary.toLowerCase().includes(q) ||
+      description.toLowerCase().includes(q)
+    );
+  });
+
+  return (
+    <div>
+      <NextSeo
         title="Search the page"
         description="Find the search result page"
         openGraph={{
-          url: '',
-          title: 'Search the page',
-          description: 'Find the search result page',
+          url: "",
+          title: "Search the page",
+          description: "Find the search result page",
           images: [
             {
-              url: `${ImageUrl('banner.png')}`,
+              url: `${ImageUrl("banner.png")}`,
               width: 1224,
               height: 724,
-              alt: 'banner',
-              type: 'image/jpeg',
+              alt: "banner",
+              type: "image/jpeg",
             },
           ],
-          site_name: 'Acervo ODAEE',
-        }}      
+          site_name: "Acervo ODAEE",
+        }}
       />
-            <Banner />
-            <div className="container">
-                <div className="row">
-
-                    <div className="col-lg-8 m-auto">
-
-                        {
-                            posts.length > 0 ?
-                                posts.map((post, index) => (
-                                    <Post key={index} post={post} />
-                                )) : <div className='m-auto p-5 mx-5 '>
-                                    <h2 className='text-center'>
-                                       {   query.q? `No post find base on ${query.q} `: 'loadding.. '}
-                                    </h2>
-                                </div> 
-                        }
-
-                    </div>
-                </div>
-            </div>
+      <Banner />
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-8 m-auto">
+            {filteredPosts.length > 0 ? (
+              filteredPosts.map((post, index) => <Post key={index} post={post} />)
+            ) : (
+              <div className="m-auto p-5 mx-5 ">
+                <h2 className="text-center">
+                  {q ? `No post found based on "${q}"` : "Loading..."}
+                </h2>
+              </div>
+            )}
+          </div>
         </div>
-    )
+      </div>
+    </div>
+  );
 }
+
+// Esta función corre en build time para proveer los posts
+export async function getStaticProps() {
+  const postsDirectory = path.join(process.cwd(), "posts");
+  const filenames = fs.readdirSync(postsDirectory);
+
+  const posts = filenames
+    .map((filename) => {
+      const filePath = path.join(postsDirectory, filename);
+      const fileContents = fs.readFileSync(filePath, "utf-8");
+      const { data: frontmatter } = matter(fileContents);
+
+      if (frontmatter.draft === false) {
+        return {
+          slug: filename.replace(".md", ""),
+          frontmatter,
+        };
+      }
+      return null;
+    })
+    .filter(Boolean);
+
+  return {
+    props: {
+      posts,
+    },
+  };
+}
+
