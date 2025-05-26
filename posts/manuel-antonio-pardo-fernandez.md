@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Manuel Pardo"]
-date: "2025-05-25T10:00:00Z"
+date : "2025-05-24T20:09:24Z"
 description: "Felicitaciones a Manuel Antonio Pardo Fernández por haber sido galardonado con el Premio Sapientiae de Educación para la Paz (ODAEE) 2025."
 cover_image: "images/sapientiae/manuel-antonio-pardo-fernandez.jpg"
 slug: "manuel-antonio-pardo-fernandez"

@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Howard Academy"]
-date: "2025-05-25T10:01:00Z"
+date : "2025-05-24T21:09:24Z"
 description: "Howard Academy ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025, en reconocimiento a su excelencia educativa y compromiso con los valores de paz e inclusión."
 cover_image: "images/sapientiae/howard-academy.jpg"
 slug: "howard-academy"
