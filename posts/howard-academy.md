@@ -10,11 +10,14 @@ tags: ["Premio Sapientiae", "Howard Academy"]
 title: "Howard Academy nominada al Premio Sapientiae de Educación para la Paz, ODAEE 2025"
 draft: false
 
+---
+
 # Howard Academy  
 ## Nominada al Premio Sapientiae de Educación para la Paz (ODAEE 2025)
 
-<div style="text-align:center; margin: 2rem 0;">
-  <img src="/images/sapientiae/howard-academy.jpg" alt="Howard Academy nominada al Premio Sapientiae de Educación para la Paz" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/sapientiae/howard-academy.jpg" alt="Howard Academy nominada al Premio Sapientiae de Educación para la Paz" style="width: 100%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
 </div>
 
 ## Compromiso con la excelencia y la paz
