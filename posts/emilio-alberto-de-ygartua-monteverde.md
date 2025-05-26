@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Maestro Ad Vitam", "Emilio"]
-date: "2026-05-25T12:05:11Z"
+date: "2025-05-25T12:05:11Z"
 description: "Felicitaciones a Emilio Alberto De Ygartua Monteverde Tovar por haber sido galardonado con el título Maestro Ad Vitam (ODAEE) 2025."
 cover_image: "images/maestro-ad-vitam/emilio-alberto-de-ygartua-monteverde.jpg"
 slug: "emilio-alberto-de-ygartua-monteverde"

@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajadora de la Paz", "Maritza"]
-date: "2026-05-25T12:03:13Z"
+date: "2025-05-25T12:03:13Z"
 description: "Felicitaciones a Maritza Gisella Paula Chica por haber sido galardonada con el título Embajadora de la Paz (ODAEE) 2025."
 cover_image: "images/embajadores/maritza-gisella-paula-chica.jpg"
 slug: "maritza-gisella-paula-chica"

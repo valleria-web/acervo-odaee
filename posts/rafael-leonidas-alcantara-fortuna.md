@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Rafael", "Doctorado Honoris Causa"] 
-date: "2026-05-25T12:20:00Z" 
+date: "2025-05-25T12:20:00Z" 
 description: "Rafael Leonidas Alcántara Fortuna ha sido nominado al Doctorado Honoris Causa en Derechos Humanos, destacando su incansable labor en el ámbito educativo y social, tanto en República Dominicana como a nivel internacional."
 cover_image: "images/dhc/rafael-leonidas-alcantara-fortuna.jpg"
 slug: "rafael-leonidas-alcantara-fortuna"
