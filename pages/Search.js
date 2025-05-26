@@ -62,7 +62,6 @@ export default function Search({ posts }) {
   );
 }
 
-// Esta función corre en build time para proveer los posts
 export async function getStaticProps() {
   const postsDirectory = path.join(process.cwd(), "posts");
   const filenames = fs.readdirSync(postsDirectory);
@@ -81,7 +80,9 @@ export async function getStaticProps() {
       }
       return null;
     })
-    .filter(Boolean);
+    .filter(Boolean)
+    // Aquí ordenamos posts de más reciente a más antiguo
+    .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
   return {
     props: {
@@ -89,4 +90,5 @@ export async function getStaticProps() {
     },
   };
 }
+
 
