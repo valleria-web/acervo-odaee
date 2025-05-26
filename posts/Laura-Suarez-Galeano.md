@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajador", "Laura"]
-date: "2025-05-24T35:320:34Z"
+date: "2025-05-23T35:320:34Z"
 description: "Felicitaciones a Laura Suárez Galeano por haber sido galardonada con el título Embajadora de Paz (ODAEE) 2025."
 cover_image: "images/embajadores/laura-suarez-galeano.jpg"
 slug: "laura-suarez-galeano"
