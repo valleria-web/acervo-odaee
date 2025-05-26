@@ -1,54 +1,56 @@
 ---
 author: ""
-categories: ["Doctorado Honoris Causa", "Edith Pino Icaza"]
-date: "2025-05-26T12:02:15Z"
-description: "La Dra. Edith Pino Icaza ha sido reconocida por su sobresaliente trayectoria diplomática, su compromiso con la justicia y los derechos humanos, y su valiosa contribución académica y social en Ecuador y el extranjero."
-cover_image: "images/dhc/edith-pino-icaza.jpg"
-slug: "edith-pino-icaza"
-summary: "Diplomática, jurista y académica ecuatoriana, la Dra. Edith Pino Icaza representa una vida dedicada al servicio público, la diplomacia con enfoque humano y la defensa de las comunidades vulnerables en el ámbito internacional."
-tags: ["Doctorado Honoris Causa", "Edith Pino Icaza"]
-title: "Edith Pino Icaza, Diplomacia con Rostro Humano y Compromiso con la Justicia"
+categories: ["Doctorado Honoris Causa", "Gina Guerrero"]
+date: "2025-05-26T12:00:00Z"
+description: "Gina Cristina Guerrero Jiménez ha sido distinguida con el Doctorado Honoris Causa en reconocimiento a su compromiso con la infancia, la equidad de género y los derechos humanos, así como por su liderazgo social a nivel nacional e internacional."
+cover_image: "images/dhc/gina-guerrero.jpg"
+slug: "gina-guerrero"
+summary: "Educadora, activista y líder social ecuatoriana, Gina Guerrero ha trabajado por décadas en defensa de la niñez, la igualdad de género y la paz, siendo referente de trabajo comunitario y cooperación internacional en América Latina."
+tags: ["Doctorado Honoris Causa", "Gina Guerrero"]
+title: "Gina Guerrero, Educadora por la Paz y Defensora de la Infancia"
 draft: false
 ---
 
-# Dra. Edith Del Rocío Pino Icaza  
-## Diplomacia con Rostro Humano y Compromiso con la Justicia
+# Gina Cristina Guerrero Jiménez  
+## Educadora por la Paz y Defensora de la Infancia
 
 <div style="text-align:center; margin: 2rem 0;">
-  <img src="/images/dhc/edith-pino-icaza.jpg" alt="Edith Pino Icaza" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <img src="/images/dhc/gina-guerrero.jpg" alt="Gina Guerrero" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-La **Dra. Edith Pino Icaza** es una profesional ecuatoriana que ha consolidado una trayectoria ejemplar en el campo de la **diplomacia, el derecho y la gestión pública**, y ha sido reconocida por su servicio ininterrumpido al país desde distintos frentes institucionales y sociales.
+La **educadora y activista ecuatoriana Gina Cristina Guerrero Jiménez** ha dedicado su vida a la promoción de los **derechos de la infancia**, la **justicia social** y el **liderazgo comunitario**, convirtiéndose en un referente nacional e internacional en el ámbito social, educativo y humanitario.
 
-Actualmente forma parte del **Servicio Exterior del Ecuador**, con funciones en el **Consulado General en New Jersey**, donde continúa desarrollando una labor caracterizada por su enfoque **humanitario, estratégico y resiliente**.
+## Formación Académica y Compromiso Global
 
-## Formación Académica de Excelencia
+Es **Licenciada en Educación de Párvulos** y ha complementado su formación con **más de 30 certificaciones internacionales**, principalmente en temas de **desarrollo infantil**, **derechos humanos**, **salud**, **legislación**, **bioseguridad**, **liderazgo**, **turismo comunitario** y **gestión de talento humano**, adquiridas en países como **Ecuador, México, Estados Unidos y otros**.
 
-La Dra. Pino Icaza es **Doctora en Gestión Pública y Gobernabilidad** por la **Universidad César Vallejo** (Perú), **Doctora en Jurisprudencia**, y **Magíster en Relaciones Internacionales y Diplomacia** por el **Instituto de Diplomacia “Dr. Antonio Parra Velasco”**. Su formación jurídica y diplomática ha sido clave para una carrera multifacética, orientada al servicio público y la cooperación internacional.
+Sus estudios en **justicia social y equidad de género** le han permitido desarrollar una perspectiva integral e intercultural sobre la educación y la atención a poblaciones en situación de vulnerabilidad.
 
-Su preparación académica se complementa con estudios en **Derecho, Relaciones Internacionales** y administración pública, constituyéndose en una profesional integral con visión estratégica y sensibilidad social.
+## Liderazgo Social y Experiencia Profesional
 
-## Más de una Década al Servicio del Ecuador
+Ha ejercido funciones de alto nivel como **Directora General Internacional de COIDH Ecuador** y actualmente se desempeña como **Gestora de Paz en ODAEE** y **Asesora Gerencial en Pacfish S.A.**.
 
-Con más de **13 años en el Servicio Exterior**, la Dra. Pino Icaza ha ocupado **cargos clave** como **Cónsul del Ecuador en Perú**, **Directora Zonal del Ministerio de Relaciones Exteriores**, y **jefa de áreas estratégicas** en temas como **migración, refugio y asistencia a connacionales** en situación de vulnerabilidad.
+Desde estos espacios ha impulsado **procesos de mediación social, prevención de violencia de género** y **fortalecimiento cultural** en comunidades rurales y urbanas. Su enfoque ha sido siempre la inclusión, el respeto a los derechos humanos y el empoderamiento comunitario.
 
-Su desempeño ha sido reconocido tanto por instituciones gubernamentales como por comunidades beneficiadas directamente por su gestión diplomática y humana.
+## Reconocimientos y Proyección Internacional
 
-## Producción Intelectual y Labor Académica
+A lo largo de su carrera ha sido honrada con diversas distinciones, entre ellas:
 
-Es autora de dos libros, incluyendo *Informática Forense como medio de prueba en el Ecuador*, y ha publicado artículos científicos sobre **diplomacia, migración, corrupción** y **derechos humanos**.
+- **Héroe Anónimo Nacional** por UNASUR  
+- **Embajadora de Paz** por ODAEE  
+- **Doctor Honoris Causa** por la Universidad Central del Valle del Cauca (UCEVA)
 
-Ha ejercido como **docente universitaria** y ha sido **conferencista invitada** en foros nacionales e internacionales, compartiendo su experiencia y conocimientos con nuevas generaciones de juristas, diplomáticos y funcionarios públicos.
+También ha participado como **ponente, coordinadora y formadora** en **eventos internacionales** junto a organismos como **ONU Mujeres, ACNUR y OIM**, abordando temas de **juventud, equidad de género, medio ambiente y salud**.
 
-## Diplomacia Humana y Liderazgo Resiliente
+## Una Vida de Servicio Educativo y Humanitario
 
-El liderazgo de la Dra. Pino Icaza se define por su compromiso con los **principios democráticos**, su capacidad de **negociación y pensamiento estratégico**, y su **empatía social**, incluso en contextos de alta presión o adversidad institucional.
+Gina Guerrero ha sabido integrar su experiencia en el sector **corporativo**, su vocación como **educadora**, y su compromiso como **líder comunitaria**, dejando huellas duraderas en los territorios donde ha trabajado.
 
-Su legado trasciende lo técnico y lo jurídico, representando una forma de diplomacia cercana a la gente, orientada a la **justicia, la cooperación y el desarrollo humano**.
+Su legado es una muestra clara de cómo la **educación y la solidaridad** pueden transformar vidas y construir caminos de paz, desarrollo y justicia para futuras generaciones.
 
 ---
 
-El reconocimiento a la **Dra. Edith Pino Icaza** como **Doctora Honoris Causa** destaca una vida consagrada al **servicio público internacional, la protección de los derechos humanos** y la construcción de un Ecuador más justo desde todos los espacios en los que ha actuado.
+El **Doctorado Honoris Causa** otorgado a **Gina Cristina Guerrero Jiménez** reconoce no solo su **trayectoria profesional ejemplar**, sino también su capacidad para **articular redes de colaboración**, promover valores universales y **defender los derechos fundamentales desde una mirada educativa y humanista**.
 
 ---
 
@@ -56,7 +58,7 @@ El reconocimiento a la **Dra. Edith Pino Icaza** como **Doctora Honoris Causa** 
 
 <div style="margin-top: 2rem; text-align:center;">
   <iframe 
-    src="/actas/edith-pino-icaza-acta-dhc.pdf" 
+    src="/actas/gina-guerrero-acta-dhc.pdf" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -67,7 +69,7 @@ El reconocimiento a la **Dra. Edith Pino Icaza** como **Doctora Honoris Causa** 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/YOo4DXdCIcs?si=Wp1WpQ7tlLx5_0lB" 
+    src="https://www.youtube.com/embed/WI2iJ2k-yQM?si=HwmTgp2Cbp43GcxW" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -75,3 +77,4 @@ El reconocimiento a la **Dra. Edith Pino Icaza** como **Doctora Honoris Causa** 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
