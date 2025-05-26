@@ -59,7 +59,7 @@ Su esfuerzo constante por transformar la sociedad desde la justicia, la equidad 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/INSERT_VIDEO_ID" 
+    src="https://www.youtube.com/embed/LCWBm0N4kYc?si=16FL-kVFx6mxa-Hp" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
