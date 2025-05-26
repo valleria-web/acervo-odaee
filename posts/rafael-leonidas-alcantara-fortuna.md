@@ -45,7 +45,7 @@ La **nominación al Doctorado Honoris Causa en Derechos Humanos** reconoce en Ra
 ---
 
 
-## Acta del Galardón
+## Acta del Galardón Honorífico
 
 <div style="margin-top: 2rem; text-align:center;">
   <iframe 
