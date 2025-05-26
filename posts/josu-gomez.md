@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Josu Gómez"]
-date: "2025-05-26T12:00:00Z"
+date: "2025-05-26T12:30:00Z"
 description: "Reconocimiento a Josu Gómez Barrutia por su liderazgo en innovación, emprendimiento y cooperación internacional en el ámbito iberoamericano."
 cover_image: "images/dhc/josu-gomez.jpg"
 slug: "josu-gomez"
