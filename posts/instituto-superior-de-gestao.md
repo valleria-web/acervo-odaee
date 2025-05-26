@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "ISG"]
-date: "2025-05-25T12:00:07Z"
+date: "2026-05-25T12:11:07Z"
 description: "El Instituto Superior de Gestão (ISG) ha sido nominado al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su destacada labor académica y su compromiso con la innovación, la internacionalización y la responsabilidad social."
 cover_image: "images/sapientiae/instituto-superior-de-gestao.jpg"
 slug: "instituto-superior-de-gestao"
