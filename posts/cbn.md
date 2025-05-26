@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "CBN"]
-date : "2025-05-24T25:09:24Z"
+date: "2025-05-25T12:00:05Z"
 description: "La Corporación Bolivariana del Norte (CBN), institución de formación técnica y humana con sede en Santa Marta, ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su compromiso con la innovación, la calidad educativa y el desarrollo integral."
 cover_image: "images/sapientiae/cbn.jpg"
 slug: "corporacion-bolivariana-del-norte"

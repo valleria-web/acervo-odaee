@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "UNICAH"]
-date : "2025-05-24T24:09:24Z"
+date: "2025-05-25T12:00:06Z"
 description: "La Universidad Católica de Honduras 'Nuestra Señora Reina de la Paz' (UNICAH) ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su labor educativa con identidad católica, compromiso social y excelencia académica."
 cover_image: "images/sapientiae/unicah.jpg"
 slug: "universidad-catolica-de-honduras"

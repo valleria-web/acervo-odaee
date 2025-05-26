@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Bede's Grammar School"]
-date : "2025-05-24T22:09:24Z"
+date: "2025-05-25T12:00:08Z"
 description: "Bede's Grammar School ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025 por su propuesta educativa integral y su compromiso con los valores de inclusión y excelencia académica."
 cover_image: "images/sapientiae/bedes-grammar-school.jpg"
 slug: "bedes-grammar-school"

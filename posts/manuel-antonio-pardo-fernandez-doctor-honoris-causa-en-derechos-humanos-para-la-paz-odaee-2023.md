@@ -1,7 +1,7 @@
 ---
 author: "Comunidad Conocimiento Colaborativo"
 categories: ["DhC", "Manuel"]
-date: "2023-05-08T18:20:24Z"
+date: "2025-05-25T12:00:10Z"
 description: "Felicitaciones al Dr. Manuel Antonio Pardo Fernandez por haber sido galardonado con el título Doctor Honoris Causa en Derechos Humanos para la Paz (ODAEE) 2023. La ceremonia de titulación tuvo lugar el 14 de abril en la ciudad de Salamanca, España."
 cover_image: "images/dhc/manuel-antonio-pardo-fernandez-doctor-honoris-causa-en-derechos-humanos-para-la-paz-odaee-2023.png"
 slug: "manuel-antonio-pardo-fernandez-doctor-honoris-causa-en-derechos-humanos-para-la-paz-odaee-2023"
