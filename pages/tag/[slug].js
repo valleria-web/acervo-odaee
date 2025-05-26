@@ -29,7 +29,7 @@ export default function tag({ posts }) {
               type: 'image/jpeg',
             },
           ],
-          site_name: 'The Digital Character Cafe',
+          site_name: 'Acervo ODAEE',
         }}
       />
 

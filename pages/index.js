@@ -63,15 +63,11 @@ export default function Home({ posts }) {
 }
 
 export async function getStaticProps() {
-  // Get files from the posts dir
+  // Leer archivos Markdown
   const files = fs.readdirSync(path.join("posts"));
 
-  // Get slug and frontmatter from posts
   const tempPosts = files.map((filename) => {
-    // Create slug
     const slug = filename.replace(".md", "");
-
-    // Get frontmatter
     const markdownWithMeta = fs.readFileSync(
       path.join("posts", filename),
       "utf-8"
@@ -89,18 +85,16 @@ export async function getStaticProps() {
     }
   });
 
-  //  remove null in tempPosts
-  const posts = tempPosts.filter((post) => {
-    return post && post;
-  });
-  const jsonString = JSON.stringify(posts);
-  fs.writeFileSync("./search.json", jsonString, (err) => {
-    if (err) {
-      console.log("Error writing file", err);
-    } else {
-      console.log("Successfully wrote file");
-    }
-  });
+  const posts = tempPosts.filter((post) => post);
+
+  // Guardar search.json en /public
+  const searchIndex = posts.map(({ frontmatter }) => ({ frontmatter }));
+  const jsonString = JSON.stringify(searchIndex, null, 2);
+
+  fs.writeFileSync(
+    path.join(process.cwd(), "public", "search.json"),
+    jsonString
+  );
 
   return {
     props: {
