@@ -1,54 +1,42 @@
-import { useRouter } from 'next/router';
-import { useEffect, useState } from 'react';
-import Post from '../components/Post';
-import Banner from '../components/Banner';
+import Post from '../components/Post'
+import Banner from "../components/Banner";
+import search from "../search.json";
+import { useRouter } from 'next/router'
 import { NextSeo } from 'next-seo';
-import { ImageUrl } from '../utils';
+import { ImageUrl} from '../utils'
 
 export default function Search() {
-  const { query } = useRouter();
-  const [posts, setPosts] = useState([]);
-  const [loading, setLoading] = useState(true);
+    const { query } = useRouter()
+    const TempPosts = [] 
 
-  useEffect(() => {
-    const fetchSearchData = async () => {
-      if (!query.q) return;
-      try {
-        const res = await fetch('/search.json');
-        const data = await res.json();
+    search.map(
+        (post) => {
+            if (post.frontmatter.draft === false) {
+                if (post.frontmatter.title.toLowerCase().includes(query.q) || post.frontmatter.summary.toLowerCase().includes(query.q) || post.frontmatter.description.toLowerCase().includes(query.q)) {
+                    TempPosts.push(post)
+                } else {
+                    TempPosts.push(null)
+                }
+            }
+        }
+    )
 
-        const filtered = data.filter((post) => {
-          if (post.frontmatter?.draft === false) {
-            const q = query.q.toLowerCase();
-            return (
-              post.frontmatter.title.toLowerCase().includes(q) ||
-              post.frontmatter.summary.toLowerCase().includes(q) ||
-              post.frontmatter.description?.toLowerCase().includes(q)
-            );
-          }
-          return false;
-        });
+    //   remove null in posts 
+    const posts = TempPosts.filter(
+        path => {
+            return path && path
+        }
+    )
 
-        setPosts(filtered);
-      } catch (err) {
-        console.error('Error loading search.json', err);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchSearchData();
-  }, [query.q]);
-
-  return (
-    <div>
-      <NextSeo
-        title="Buscar en Acervo ODAEE"
-        description="Resultados de búsqueda"
+    return (
+        <div>
+           <NextSeo
+        title="Search the page"
+        description="Find the search result page"
         openGraph={{
           url: '',
-          title: 'Buscar en Acervo ODAEE',
-          description: 'Resultados de búsqueda',
+          title: 'Search the page',
+          description: 'Find the search result page',
           images: [
             {
               url: `${ImageUrl('banner.png')}`,
@@ -59,27 +47,28 @@ export default function Search() {
             },
           ],
           site_name: 'Acervo ODAEE',
-        }}
+        }}      
       />
-      <Banner />
-      <div className="container">
-        <div className="row">
-          <div className="col-lg-8 m-auto">
-            {loading ? (
-              <div className='text-center my-5'>Cargando...</div>
-            ) : posts.length > 0 ? (
-              posts.map((post, index) => (
-                <Post key={index} post={post} />
-              ))
-            ) : (
-              <div className='text-center my-5'>
-                <h2>No se encontraron resultados para "{query.q}"</h2>
-              </div>
-            )}
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
+            <Banner />
+            <div className="container">
+                <div className="row">
 
+                    <div className="col-lg-8 m-auto">
+
+                        {
+                            posts.length > 0 ?
+                                posts.map((post, index) => (
+                                    <Post key={index} post={post} />
+                                )) : <div className='m-auto p-5 mx-5 '>
+                                    <h2 className='text-center'>
+                                       {   query.q? `No post find base on ${query.q} `: 'loadding.. '}
+                                    </h2>
+                                </div> 
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
+}
