@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Edith Pino Icaza"]
-date: "2025-05-26T12:01:00Z"
+date: "2025-05-26T12:02:15Z"
 description: "La Dra. Edith Pino Icaza ha sido reconocida por su sobresaliente trayectoria diplomática, su compromiso con la justicia y los derechos humanos, y su valiosa contribución académica y social en Ecuador y el extranjero."
 cover_image: "images/dhc/edith-pino-icaza.jpg"
 slug: "edith-pino-icaza"
@@ -67,7 +67,7 @@ El reconocimiento a la **Dra. Edith Pino Icaza** como **Doctora Honoris Causa** 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/INSERT_VIDEO_ID" 
+    src="https://www.youtube.com/embed/YOo4DXdCIcs?si=Wp1WpQ7tlLx5_0lB" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
