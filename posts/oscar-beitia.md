@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Oscar Beitia"]
-date: "2026-05-26T12:30:00Z"
+date: "2025-05-26T12:30:00Z"
 description: "Reconocimiento a Oscar Ernesto Beitia Cáceres por su liderazgo en seguridad institucional, modernización operativa y defensa de los valores democráticos en Panamá."
 cover_image: "images/dhc/oscar-beitia.jpg"
 slug: "oscar-beitia"
