@@ -3,8 +3,8 @@ author: ""
 categories: ["Rafael", "Doctorado Honoris Causa"] 
 date: "2026-05-25T12:20:00Z" 
 description: "Rafael Leonidas Alcántara Fortuna ha sido nominado al Doctorado Honoris Causa en Derechos Humanos, destacando su incansable labor en el ámbito educativo y social, tanto en República Dominicana como a nivel internacional."
-cover_image: "images/rafael-leonidas-alcantara.jpg"
-slug: "rafael-leonidas-alcantara-dhc"
+cover_image: "images/dhc/rafael-leonidas-alcantara-fortuna.jpg"
+slug: "rafael-leonidas-alcantara-fortuna"
 summary: "El educador dominicano Rafael Leonidas Alcántara Fortuna ha sido nominado al Doctorado Honoris Causa en Derechos Humanos, reconociendo una vida dedicada a la enseñanza, la gestión pública y la promoción de los derechos humanos."
 tags: ["Doctorado Honoris Causa", "Rafael Leonidas Alcántara", "Derechos Humanos"] 
 title: "Rafael Leonidas Alcántara Fortuna: Educación y Derechos Humanos al Servicio del Pueblo"
@@ -15,7 +15,7 @@ draft: false
 ## Educación y Derechos Humanos al Servicio del Pueblo
 
 <div style="text-align:center; margin: 2rem 0;">
-  <img src="/images/rafael-leonidas-alcantara.jpg" alt="Rafael Leonidas Alcántara Fortuna" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <img src="/images/dhc/rafael-leonidas-alcantara-fortuna.jpg" alt="Rafael Leonidas Alcántara Fortuna" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
 El **Doctorado Honoris Causa en Derechos Humanos** ha sido conferido al destacado educador dominicano **Rafael Leonidas Alcántara Fortuna**, en reconocimiento a su extensa y comprometida labor en el ámbito educativo, su defensa activa de los derechos sociales y su incansable promoción de una educación pública, crítica y transformadora.
@@ -49,7 +49,7 @@ La **nominación al Doctorado Honoris Causa en Derechos Humanos** reconoce en Ra
 
 <div style="margin-top: 2rem; text-align:center;">
   <iframe 
-    src="/actas/rafael-leonidas-alcantara-dhc.pdf" 
+    src="/actas/rafael-leonidas-alcantara-fortuna-acta-dhc.pdf" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
