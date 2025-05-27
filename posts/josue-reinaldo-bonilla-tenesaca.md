@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctor Honoris Causa", "Josué Bonilla"]
-date: "2025-05-26T12:00:00Z"
+date: "2025-05-27T13:01:00Z"
 description: "Reconocimiento a Josué Reinaldo Bonilla Tenesaca por su excelencia académica, liderazgo en innovación educativa y compromiso con la paz."
 cover_image: "images/dhc/josue-bonilla.jpg"
 slug: "josue-reinaldo-bonilla-tenesaca"
