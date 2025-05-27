@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Santo Oña Alcívar"]
-date: "2025-05-26T12:00:00Z"
+date: "2025-05-27T13:02:00Z"
 description: "Reconocimiento a Santo Jiorge Oña Alcívar por su compromiso con la paz, la educación y el desarrollo empresarial."
 cover_image: "images/dhc/santo-ona.jpg"
 slug: "santo-jiorge-ona-alcivar"
