@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctor Honoris Causa", "Rainer Holm-Hadulla"]
-date: "2025-05-26T13:00:00Z"
+date: "2025-05-27T13:20:00Z"
 description: "Reconocimiento a Rainer Holm-Hadulla por su brillante trayectoria académica en psiquiatría y psicoterapia, y su profundo compromiso con la ayuda humanitaria y la formación universitaria."
 cover_image: "images/dhc/rainer-holm-hadulla.jpg"
 slug: "rainer-holm-hadulla"
@@ -44,7 +44,7 @@ El reconocimiento como **Doctor Honoris Causa ODAEE 2025** celebra su vida dedic
 
 <div style="margin-top: 2rem; text-align:center;">
   <iframe 
-    src="/actas/rainer-holm-hadulla-honoris-causa.pdf" 
+    src="/actas/rainer-holm-hadulla-acta-dhc.pdf" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -55,7 +55,7 @@ El reconocimiento como **Doctor Honoris Causa ODAEE 2025** celebra su vida dedic
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/INSERT_VIDEO_ID" 
+    src="https://www.youtube.com/watch?v=4jbMpAyEzL8" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
