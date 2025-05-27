@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Néstor Acosta Lozano"]
-date: "2025-05-26T12:37:00Z"
+date: "2025-05-27T13:03:00Z"
 description: "Reconocimiento al Dr. Néstor Acosta Lozano por su liderazgo académico y sus contribuciones científicas en zootecnia y producción animal."
 cover_image: "images/dhc/nestor-acosta.jpg"
 slug: "nestor-acosta-lozano"
