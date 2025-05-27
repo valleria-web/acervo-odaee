@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Washington Pedroza"]
-date: "2025-05-26T12:21:00Z"
+date: "2025-05-27T13:08:00Z"
 description: "Reconocimiento a Washington Pedroza Mejía por su trayectoria en derechos humanos, justicia social y promoción de la paz a nivel nacional e internacional."
 cover_image: "images/dhc/washington-pedroza.jpg"
 slug: "washington-pedroza"
