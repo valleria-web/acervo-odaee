@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctor Honoris Causa", "Maritza Cárdenas"]
-date: "2025-05-26T13:00:00Z"
+date: "2025-05-27T13:00:00Z"
 description: "Reconocimiento a Maritza Cárdenas por su incansable defensa de los derechos humanos, su liderazgo social y compromiso con la equidad en Ecuador."
 cover_image: "images/dhc/maritza-cardenas.jpg"
 slug: "maritza-cardenas"
