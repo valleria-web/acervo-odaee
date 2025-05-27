@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Francisco García"]
-date: "2025-05-26T12:00:00Z"
+date: "2025-05-27T13:04:00Z"
 description: "Reconocimiento al Dr. Francisco E. García por su destacada trayectoria jurídica, académica y en seguridad forense en Panamá."
 cover_image: ""
 slug: "francisco-garcia"
