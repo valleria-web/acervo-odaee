@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Doctorado Honoris Causa", "Marcos Oviedo"]
-date: "2025-05-26T12:35:00Z"
+date: "2025-05-27T13:05:00Z"
 description: "Reconocimiento al Dr. Marcos David Oviedo Rodríguez por su destacada trayectoria en la educación superior y la gestión universitaria en Ecuador."
 cover_image: "images/dhc/marcos-oviedo.jpg"
 slug: "marcos-oviedo"
