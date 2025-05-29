@@ -38,7 +38,7 @@ Su activa participación en **talleres, foros y seminarios** sobre derechos huma
 
 ## Un Compromiso que Inspira
 
-La distinción como **Doctora Honoris Causa ODAEE 2025** reconoce su incansable labor en favor de los derechos humanos, su contribución a la formación profesional y su entrega a las causas sociales que transforman vidas.
+La distinción como **Embajadora de Paz** reconoce su incansable labor en favor de los derechos humanos, su contribución a la formación profesional y su entrega a las causas sociales que transforman vidas.
 
 > **Frase representativa:**  
 > *“No basta que los derechos estén escritos, debes conocerlos, ejercerlos y exigir que se cumplan.”*
