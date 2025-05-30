@@ -1,67 +1,56 @@
 ---
 author: ""
-categories: ["Doctorado Honoris Causa", "Josu Gómez"]
-date: "2025-05-27T13:06:00Z"
-description: "Reconocimiento a Josu Gómez Barrutia por su liderazgo en innovación, emprendimiento y cooperación internacional en el ámbito iberoamericano."
-cover_image: "images/dhc/josu-gomez.jpg"
-slug: "josu-gomez"
-summary: "Empresario, escritor y activista español, impulsor del emprendimiento, la innovación y la creación de redes colaborativas a nivel global."
-tags: ["Doctorado Honoris Causa", "Josu Gómez", "Emprendimiento", "Innovación"]
-title: "Josu Gómez Barrutia: Emprendimiento con Impacto Global"
+categories: ["Doctorado", "Johanna Tandazo"]
+date: "2025-05-30T10:00:00Z"
+description: "Reconocimiento a Johanna Tandazo Ortega por su destacada trayectoria jurídica, académica y su compromiso con la justicia en el Ecuador."
+cover_image: "images/dhc/johanna-tandazo.jpg"
+slug: "johanna-tandazo"
+summary: "Jueza provincial, docente universitaria y doctora en Derecho. Su labor ha contribuido significativamente al fortalecimiento del sistema judicial ecuatoriano."
+tags: ["Derecho", "Doctorado", "Función Judicial", "Johanna Tandazo"]
+title: "Johanna Tandazo Ortega: Justicia y Académica al Servicio del País"
 draft: false
 ---
 
-# Josu Gómez Barrutia  
-## Emprendimiento con Impacto Global
+# Johanna Tandazo Ortega  
+## Justicia y Académica al Servicio del País
 
 <div style="text-align:center; margin: 2rem 0;">
-  <img src="/images/dhc/josu-gomez.jpg" alt="Josu Gómez Barrutia" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <img src="/images/dhc/johanna-tandazo.jpg" alt="Johanna Tandazo Ortega" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </div>
 
-**Josu Gómez Barrutia**, empresario, escritor y activista español, se ha consolidado como una **figura clave en el ecosistema emprendedor iberoamericano**. Su trayectoria refleja un firme compromiso con el **fomento del emprendimiento, la innovación y la creación de redes empresariales internacionales** que conectan talento, inversión y desarrollo sostenible.
+**Johanna Tandazo Ortega** es una profesional del Derecho con más de 15 años de experiencia en el ámbito judicial y académico. Actualmente se desempeña como **Jueza Provincial** del Consejo de la Judicatura del Ecuador y como **docente universitaria**, siendo reconocida por su compromiso con la justicia y la formación jurídica.
 
-## Reconocimientos y Liderazgo Internacional
+## Formación Académica y Especialización
 
-Su labor ha sido reconocida internacionalmente, destacando:
+- **Abogada** de los Tribunales y Juzgados del Ecuador  
+- **Magíster en Derecho Procesal** – Universidad Católica Santiago de Guayaquil (2018)  
+- **Doctorado en Derecho** – Universidad Nacional de Mar del Plata, Argentina (en curso)  
+- Diplomado en Derecho Constitucional Profundizado – USFQ  
+- Talleres y congresos internacionales sobre justicia constitucional y derecho procesal  
 
-- **Embajador de Paz** por la Organización Diplomática de las Américas y Europa (ODAE), 2019  
-- **Doctorado Honoris Causa** por la Universidad Olmeca de México, 2023
+## Trayectoria Profesional
 
-Estos reconocimientos evidencian su dedicación a impulsar **iniciativas emprendedoras de alto impacto** y la promoción de **espacios colaborativos para la innovación**.
+- **Jueza Provincial**, Consejo de la Judicatura (2015 - Actualidad)  
+- **Docente Universitaria**, Universidad de Guayaquil (2022 - Actualidad)  
+- Ha ocupado cargos clave en instituciones como:
+  - Consejo Nacional Electoral (Presidenta Junta Electoral Santa Elena)
+  - Banco Central del Ecuador (Jueza/Secretaria de Coactiva)
+  - AGUAPEN S.A. (Jefe Jurídico)
+  - Bancos en liquidación (Abogada y Secretaria de Coactiva)
 
-## Red Business Market
+## Publicaciones Académicas
 
-Uno de los hitos más importantes en su carrera es la **Red Business Market**, una plataforma internacional con:
+Ha publicado artículos en la revista indexada **Recimundo**, destacando:
 
-- **25 sedes permanentes**  
-- **Más de 400 colaboradores activos**  
-- **Apoyo a más de 2.000 startups**, facilitando su acceso a redes de inversión y conocimiento estratégico
+- *Principios del derecho penal en el Ecuador. Una revisión sistemática*  
+- *El derecho penal en la lucha contra la corrupción. Una revisión sistemática*  
+- *La citación en el derecho civil y el derecho a la defensa como garantía del debido proceso*  
 
-La Red se ha posicionado como un motor clave en el desarrollo de comunidades emprendedoras en Europa y América Latina.
-
-## Asociación Internacional de Startups
-
-Gómez Barrutia preside la **Asociación Internacional de Startups**, una entidad global que conecta:
-
-- Emprendedores  
-- Inversores  
-- Centros de innovación  
-
-Esta red es un **nodo esencial para el fortalecimiento de ecosistemas emprendedores** y la articulación de políticas de innovación con enfoque internacional.
-
-## Compromiso Académico
-
-Su labor también se extiende al ámbito académico, con colaboraciones en universidades como:
-
-- **Universidad Europea Miguel de Cervantes**  
-- **Universidad Autónoma de Madrid**  
-- **Universidad de Castilla-La Mancha**
-
-Desde estas plataformas, ha diseñado **programas formativos innovadores**, impartido **conferencias estratégicas** y promovido una **educación inclusiva y de calidad** para la región iberoamericana.
+Estas publicaciones reflejan su profunda reflexión crítica y su aporte a la doctrina jurídica nacional.
 
 ---
 
-A través de su trabajo, **Josu Gómez Barrutia** se ha convertido en un referente global en la **construcción de puentes entre educación, emprendimiento e innovación**, con un **impacto tangible** en comunidades de habla hispana y una visión clara de futuro basada en la cooperación, la creatividad y la sostenibilidad.
+A través de su trabajo en el sistema judicial y en la academia, **Johanna Tandazo Ortega** se ha convertido en un referente del Derecho ecuatoriano, comprometida con la justicia, el fortalecimiento institucional y la formación de nuevas generaciones de profesionales.
 
 ---
 
@@ -69,7 +58,7 @@ A través de su trabajo, **Josu Gómez Barrutia** se ha convertido en un referen
 
 <div style="margin-top: 2rem; text-align:center;">
   <iframe 
-    src="/actas/josu-gomez-acta-dhc.pdf" 
+    src="/actas/johanna-tandazo-acta-dhc.pdf" 
     width="100%" 
     height="600px" 
     style="border: none; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -80,7 +69,7 @@ A través de su trabajo, **Josu Gómez Barrutia** se ha convertido en un referen
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/jdEYZwbhNH0?si=NEKowfzL-c6mAzXa" 
+    src="https://www.youtube.com/embed/VIDEO_ID_AQUI" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -88,3 +77,4 @@ A través de su trabajo, **Josu Gómez Barrutia** se ha convertido en un referen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
