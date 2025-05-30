@@ -3,7 +3,7 @@ author: ""
 categories: ["Embajadora", "María de Lourdes Bonilla Morán"] 
 date: "2025-05-30T13:00:00Z"
 description: "Reconocimiento a María de Lourdes Bonilla Morán, Teniente Coronel de la Fuerza Aérea Ecuatoriana, por su destacada trayectoria en el ámbito militar, su liderazgo en situaciones de crisis y su compromiso con la paz y los derechos humanos."
-cover_image: "images/embajadores/maria-de-lourdes-bonilla.jpg" 
+cover_image: "images/embajadores/maria-de-lourdes-bonilla-moran.jpg" 
 slug: "maria-de-lourdes-bonilla-moran"
 summary: "Militar, humanista y líder ecuatoriana, pionera en espacios tradicionalmente masculinos, con una destacada trayectoria en defensa de la paz, la justicia social y la equidad."
 tags: ["Embajadora", "María de Lourdes Bonilla Morán"]
@@ -15,7 +15,7 @@ draft: false
 ## Liderazgo con Corazón y Valentía
 
 <div style="text-align:center; margin: 2rem 0;">
-  <img src="/images/embajadores/maria-de-lourdes-bonilla.jpg" alt="María de Lourdes Bonilla Morán" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> 
+  <img src="/images/embajadores/maria-de-lourdes-bonilla-moran.jpg" alt="María de Lourdes Bonilla Morán" style="width:100%; max-width:500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> 
 </div>
 
 **María de Lourdes Bonilla Morán** es una mujer que ha marcado la historia militar y social del Ecuador con valentía, liderazgo e inquebrantable compromiso con la paz y los derechos humanos.
