@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajadora", "Priscila Navarrete Rosero"] 
-date: "2025-05-29T13:00:00Z"
+date: "2025-05-30T13:00:00Z"
 description: "Reconocimiento a Priscila Navarrete Rosero por su trayectoria ejemplar en trabajo social, docencia universitaria y defensa de los derechos humanos, especialmente en favor de mujeres y grupos vulnerables."
 cover_image: "images/embajadores/priscila-navarrete-rosero.jpg" 
 slug: "priscila-navarrete-rosero"
