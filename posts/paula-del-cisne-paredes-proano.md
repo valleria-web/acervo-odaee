@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajadora", "Paula del Cisne Paredes Proaño"] 
-date: "2025-05-30T13:00:00Z"
+date: "2025-05-30T12:00:00Z"
 description: "Reconocimiento a Paula del Cisne Paredes Proaño por su compromiso humanitario, vocación de servicio y liderazgo en atención sociosanitaria, especialmente en favor de personas con discapacidad y comunidades vulnerables."
 cover_image: "images/embajadores/paula-del-cisne-paredes.jpg" 
 slug: "paula-del-cisne-paredes-proano"
@@ -62,7 +62,7 @@ El reconocimiento como **Embajadora de Paz** celebra su vida dedicada al servici
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/embed/TU_VIDEO_ID" 
+    src="https://www.youtube.com/embed/6PgkgE9QhRQ" 
     title="YouTube video player"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
