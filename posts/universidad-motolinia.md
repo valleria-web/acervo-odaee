@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Premio Sapientiae", "Universidad Motolinía del Pedregal"]
-date: "2025-06-01T12:07:09Z"
+date: "2025-01-06T12:07:09Z"
 description: "La Universidad Motolinía del Pedregal ha sido nominada al Premio Sapientiae de Educación para la Paz (ODAEE) 2025, en reconocimiento a su compromiso con la formación integral, los valores cristianos y la excelencia educativa."
 cover_image: "images/sapientiae/universidad-motolinia-banner.jpg"
 slug: "universidad-motolinia"
