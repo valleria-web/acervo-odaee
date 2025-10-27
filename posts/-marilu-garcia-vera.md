@@ -1,7 +1,7 @@
 ---
 author: ""
 categories: ["Embajadora", "Marilú García Vera"] 
-date: "2025-05-30T13:00:00Z"
+date: "2025-06-30T13:00:00Z"
 description: "Reconocimiento a Marilú García Vera por su incansable labor en defensa de los derechos humanos, la justicia social y la protección de los migrantes, con una trayectoria política y social ejemplar."
 cover_image: "images/embajadores/marilu-garcia-vera.jpg" 
 slug: "marilu-garcia-vera"
